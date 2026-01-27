@@ -19,13 +19,17 @@ The manuscript collations and provisional edition are handled by [[https://githu
   * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A04-su.ci-1-20%3Aprovisional-edition_cikitsasthana_01-20&upama_script=devanagari|Cikitsāsthāna, adhyāyas 1-20]]
   * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A04-su.ci-21-40%3Aprovisional-edition_cikitsasthana_21-40&upama_script=devanagari|Cikitsāsthāna, adhyāyas 21-40]]
   * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A05-su.ka%3Aprovisional-edition_kalpasthana&upama_script=devanagari|Kalpasthāna]]
-  * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-01-30%3Aprovisional-edition_uttaratantra-1-30&upama_script=devanagari|Uttaratantra, adhyāyas  1-30]]
-  * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-31-44%3Aprovisional-edition_uttaratantra-31-44&upama_script=devanagari|Uttaratantra, adhyāyas 31-44]]
-  * [[https://206.12.96.209/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-45-66%3Aprovisional-edition_uttaratantra-45-66&upama_script=devanagari&upama_script=devanagari|Uttaratantra, adhyāyas 44-66]]
+  * Uttaratantra:
+    * [[https://206-12-96-209.cloud.computecanada.ca/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-01-26-salakya%3Aprovisional-edition_uttaratantra-01-26&upama_script=devanagari|Śālākyatantra: adhyāyas 1-26]]
+    * [[https://206-12-96-209.cloud.computecanada.ca/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-27-38-kumara%3Aprovisional-edition_uttaratantra-27-38&upama_script=devanagari|Kumāratantra: adhyāyas 27-38]]
+    * [[https://206-12-96-209.cloud.computecanada.ca/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-39-59-kayacikitsa%3Aprovisional-edition_uttaratantra-39-59&upama_script=devanagari9|Kāyacikitsātantra: adhyāyas 39-59]]
+    * [[https://206-12-96-209.cloud.computecanada.ca/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-60-62-bhuta%3Aprovisional-edition_uttaratantra-60-62&upama_script=devanagari|Bhūtavidyātantra: adhyāyas 60-62]]
+    * [[https://206-12-96-209.cloud.computecanada.ca/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3A06-su.ut-63-66-tantrabhusana%3Aprovisional-edition_uttaratantra-63-66&upama_script=devanagari|Tantrabhūṣaṇādhyāya: adhyāyas 63-66]]
+
 
 Here are [[https://saktumiva.org/wiki/users|further instructions for readers]].
 
 ===== Copyright and Licensing =====
 
-All files in this Github repository are copyrighted (C) Dominik Wujastyk 2024. They are distributed under a [[https://creativecommons.org/licenses/by-sa/4.0/|Creative Commons BY-SA]] licence.
+All files in this Github repository are copyrighted (C) Dominik Wujastyk 2020-2026. They are distributed under a [[https://creativecommons.org/licenses/by-sa/4.0/|Creative Commons BY-SA]] licence.
 
