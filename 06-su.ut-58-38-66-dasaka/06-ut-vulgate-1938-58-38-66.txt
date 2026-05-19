@@ -1626,7 +1626,7 @@
                     <l xml:id="SS.6.64.10"> taruṇatvād vidāhaṃ ca gacchanty oṣadhayas tadā
                         |
                         <caesura/>
-                         matimāṃs tan nimittaṃ ca nātivyāyāmam ācaret || </l>
+                         matimāṃs tannimittaṃ ca nātivyāyāmam ācaret || </l>
 
                     <l xml:id="SS.6.64.11"> atyambupānāvaśyāyagrāmyadharmātapāṃs tyajet |
                         <caesura/>
