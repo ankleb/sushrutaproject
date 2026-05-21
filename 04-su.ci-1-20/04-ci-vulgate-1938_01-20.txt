@@ -1735,8 +1735,7 @@
                         drākṣekṣukaṣāyamiśrair vā mastumadyadhānyāmlaiḥ; jīvanīyasiddhena
                         vā sarpiṣā 'bhyaṅgaḥ, śatadhautaghṛtena vā,
                         kākolyādikalkakaṣāyavipakvena vā sarpiṣā;
-                        śāliṣaṣṭikanalavañjulatālīsaśṛṅgāṭakagaloḍyagaurīgair
-                        ikaśaivalapadmakapadmapatraprabhṛtibhir dhānyāmlapiṣṭaiḥ pradeho
+                        śāliṣaṣṭika<pc> </pc>nala<pc> </pc>vañjula<pc> </pc>tālīsa<pc> </pc>śṛṅgāṭaka<pc> </pc>galoḍya<pc> </pc>gaurīgairika<pc> </pc>śaivala<pc> </pc>padmaka<pc> </pc>padmapatra<pc> </pc>prabhṛtibhir dhānyāmlapiṣṭaiḥ pradeho
                         ghṛtamiśraḥ, vātaprabale 'pyeṣa sukhoṣṇaḥ pradehaḥ kāryaḥ || </l>
 
                     <l xml:id="SS.4.5.9"><pb facs="510" n="426a"/> raktaprabale 'py

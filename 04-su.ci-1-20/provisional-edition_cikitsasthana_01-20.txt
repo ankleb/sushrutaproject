@@ -1097,6 +1097,7 @@
                     <l xml:id="SS.4.1.trailer">|| dvivraṇīyaṃ cikitsitaṃ prathamaḥ ||</l>
 
 
+
                 </div>
 
                 <div n="2" type="adhyāya">
@@ -1746,6 +1747,7 @@
                     <l xml:id="SS.4.2.trailer"> cikitsā dvi ||</l>
 
 
+
                 </div>
 
                 <div corresp="4.3. in NAK 5-333" n="3" type="adhyāya">
@@ -2229,6 +2231,7 @@
                     <l xml:id="SS.4.3.trailer"> cikitsāyāṃ tṛtīyo 'dhyāyaḥ || ||</l>
 
 
+
                 </div>
 
                 <div n="4" type="adhyāya">
@@ -2583,6 +2586,7 @@
                     <l xml:id="SS.4.4.trailer"> iti vātavyādhicikitsitañ caturthaḥ || || </l>
 
 
+
                 </div>
 
                 <div n="5" type="adhyāya">
@@ -2721,9 +2725,19 @@
                         bisamṛṇālabhadraśriyapadmakakaṣāyeṇājākṣīreṇa pariṣekaḥ |
                         kṣīrekṣurasamadhukaśarkkarātaṇḍulodakair vvā |
                         drākṣekṣukaṣāyamiśrair vvā | mastudhānyāmlair jjīvanīyasiddhena vā
-                        sarppiṣā | śatadhautena vā śālipiṣṭakaṃ |
-                        nalavañjulatālīsaśṛṅgāṭakakaloḍyāgaurīśaivalapadmaprabhṛtibhir vvā
-                        dhānyāmlapiṣṭaḥ pradeho ghṛtamiśraḥ ||</l>
+                        sarppiṣā | śatadhautena vā śālipiṣṭakaṃ | nala<pc
+                            > </pc>vañjula<pc> </pc>tālīsa<pc> </pc>śṛṅgāṭaka<pc
+                            > </pc>kaloḍya<pc> </pc>gaurī<pc> </pc>śaivala<pc
+                            > </pc>padma<pc> </pc>prabhṛtibhir vvā dhānyāmlapiṣṭaḥ pradeho
+                        ghṛtamiśraḥ ||<anchor n="SS.4.5.8-n-1"/></l>
+
+                    <ab corresp="#SS.4.5.8" type="apparatus">
+                        <list type="Emendation">
+                            <item xml:lang="en" corresp="#SS.4.5.8-n1">We emend witness
+                                H's <foreign>kālodyā</foreign> to the
+                                attested lexeme <foreign>kaloḍya</foreign>.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.4.5.9">
                         <label xml:lang="en">cf. 1938 ed. 4.5.9</label>
@@ -2994,6 +3008,7 @@
                     <l xml:id="SS.4.5.45"/>
 
                     <l xml:id="SS.4.5.trailer"> ci 5</l>
+
 
 
                 </div>
@@ -3528,6 +3543,7 @@
                             extent="1" unit="char"/></l>
 
 
+
                 </div>
 
                 <div corresp="4.8. in NAK 5-333" n="8" type="adhyāya">
@@ -3929,6 +3945,7 @@
 
                     <l xml:id="SS.4.8.trailer"> iti || ciki<unclear extent="1" unit="char"
                         /> ||</l>
+
 
 
                 </div>
@@ -4359,6 +4376,7 @@
                          cikitsā navamaḥ || </l>
 
 
+
                 </div>
 
                 <div n="10" type="adhyāya">
@@ -4519,6 +4537,7 @@
                         vai prathamo daśa || a </l>
 
 
+
                 </div>
 
                 <div n="11" type="adhyāya">
@@ -4647,6 +4666,7 @@
                          samvatsarāntarāt puṃsaḥ pramehān pratimucyate iti || pra ||</l>
 
                     <l xml:id="SS.4.11.trailer">pramehacikitsā ekādaśa ||</l>
+
 
 
                 </div>
@@ -4786,6 +4806,7 @@
                         tadārogam pracakṣata iti ||</l>
 
                     <l xml:id="SS.4.12.trailer"> ṃ || cikitsādvādaśa || </l>
+
 
 
                 </div>
@@ -5038,6 +5059,7 @@
                     <l xml:id="SS.4.13.trailer"> cikitsā <unclear/>tri|| 0 || </l>
 
 
+
                 </div>
 
                 <div n="14" type="adhyāya">
@@ -5251,6 +5273,7 @@
                         iti ||</l>
 
                     <l xml:id="SS.4.14.trailer"> cikitsā 14 || 0 ||</l>
+
 
 
                 </div>
@@ -5566,6 +5589,7 @@
 
 
                     <l xml:id="SS.4.15.trailer">|| cikitsaa 15 ||</l>
+
 
 
                 </div>
@@ -6497,6 +6521,7 @@
                     <l xml:id="SS.4.18.trailer"> cikitsā 19 ||</l>
 
 
+
                 </div>
 
                 <div n="19" type="adhyāya">
@@ -6914,6 +6939,7 @@
                          kuryāc chītakriyāñ cāpi vraṇoktañ ca vidhin tatheti || </l>
 
                     <l xml:id="SS.4.19.trailer"> ci 19 ||</l>
+
 
 
                 </div>

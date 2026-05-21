@@ -1695,9 +1695,9 @@ Special Note:
                         bisamṛṇālabhadraśriyapadmakakaṣāyeṇājākṣīreṇa pariṣekaḥ | kṣīrekṣu<lb n="3"
                         />rasamadhuśarkkarātaṇḍulodakair vvā | drākṣekṣukaṣāyamiśrair vvā |
                         ma<cb/>studhānyāmlair jjīvanīyasiddhena vā | sarppiṣā śatadhautena vā
-                        śālipiṣṭakaṃ | nalavañjulatālīsa<g ref="#newa-gap-filler"/><lb n="4"
-                            />śṛṅgāṭakakālo<unclear ana="unclear whether it is d or ṭ"
-                        >dyā</unclear>gaurīśaivālapadmaprabhṛtibhir vvā dhānyā<cb/>mlapiṣṭaḥ pradeho
+                        śālipiṣṭakaṃ | nala<pc> </pc>vañjula<pc> </pc>tālīsa<g ref="#newa-gap-filler"/><pc> </pc><lb n="4"
+                        />śṛṅgāṭaka<pc> </pc>kālo<unclear ana="unclear whether it is d or ṭ"
+                            >dyā</unclear><pc> </pc>gaurī<pc> </pc>śaivāla<pc> </pc>padma<pc> </pc>prabhṛtibhir vvā dhānyā<cb/>mlapiṣṭaḥ pradeho
                         ghṛtamiśraḥ ||</l>
 
                     <l xml:id="SS.4.5.9"> raktaprabale 'py evaṃ bahuśaś ca śoṇitam avasecayet || </l>
