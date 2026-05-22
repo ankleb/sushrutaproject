@@ -482,6 +482,7 @@
 
 
 
+
                 </div>
 
 
@@ -2074,17 +2075,17 @@
                     </l>
                     <ab corresp="#SS.3.4.49" type="apparatus">
                         <list type="Note">
-                            <item corresp="#SS.3.4.49-n1" xml:lang="en">The vulgate has
-                                six verses at this point, describing further special terms
-                                for sleep-related conditions that do not appear in witness
-                                H. These verses may be additions by editors after the
-                                sixteenth century. But it seems more likely that there was
-                                a saut du même au même by the scribe of witness H from the
-                                word <foreign xml:lang="sa">vinirdiśet</foreign> at the
-                                end of 49 to the same word at the end of 55. Therefore we
-                                include the verses here. Further evidence from manuscripts
-                                that transmit early readings may clarify this
-                                issue.</item>
+                            <item corresp="#SS.3.4.49-n1" xml:lang="en">The vulgate has an
+                                additional six verses at this point that do not appear in
+                                witness H. These verses may be additions by editors after
+                                the sixteenth century. Or they may be a scribal omission
+                                by a saut du même au même by the scribe of witness H from
+                                the word <foreign xml:lang="sa">vinirdiśet</foreign> at
+                                the end of 49 to the same word at the end of 55. The sense
+                                of these verses does not fit well in the context and the
+                                commentators Gayadāsa and Ḍalhaṇa recorded doubts about
+                                their inclusion. Further evidence from manuscripts that
+                                transmit early readings may clarify this issue.</item>
                         </list>
                     </ab>
 
@@ -2191,7 +2192,7 @@
                         <label xml:lang="en">cf. 1938 ed. 3.4.64</label>
                         <caesura/>
                          tatra vātaprakṛtir jāgarūkaḥ śītadveṣī durbhagasteno 'nāryo
-                        matsaro gāndharvvaḥ  sphuṭitacaraṇo rūkṣālpakeśasmaśruḥ
+                        matsaro gāndharvvaḥ sphuṭitacaraṇo rūkṣālpakeśasmaśruḥ
                         kaṭhinakrodhī dantakhādī alpabalo 'lpāyuś ca bhavati || </l>
 
                     <l xml:id="SS.3.4.65">
@@ -3300,6 +3301,7 @@
 
 
 
+
                 </div>
 
 
@@ -3558,6 +3560,7 @@
                          pratānāḥ padminī kandā dvisādīnāṃ yathājalaṃ ||</l>
 
                     <l xml:id="SS.3.7.trailer">iti śārīre saptamo dhyāyaḥ ||</l>
+
 
 
 
@@ -4520,6 +4523,7 @@
                          dhamanīvyākaraṇa caiva garbbhiṇyā pūryate daśa ||</l>
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ ||</l>
+
 
 
 
