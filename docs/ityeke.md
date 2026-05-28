@@ -46,17 +46,13 @@ This passage raises objection against the opinion of certain other teachers that
 **[Caraka's reference needs to be added]**  
 
 
-
-
 ## SS Vulgate 1.27.18:
 
-In this case, the "some say" statement appears only in the vulgate and unlike most of the other cases, this other opinion is not rejected in the text. The vulgate reads: 
+In this case, the "some say" statement appears only in the vulgate and unlike most of the other cases, this opinion is not rejected in the text. The vulgate reads: 
 
 > [ajātuṣaṃ tu jatumadhūcchiṣṭapraliptayā śalākayā pūrvakalpenety eke ||](https://saktumiva.org/wiki/wujastyk/susrutasamhita/01-su.su-1-31/01-su-vulgate-1938-1-31?upama_scroll=SS.1.27.18)
 
 The reading *ity eke* is likely not read by Ḍalhaṇa. In the Nepalese version, this sentence and the following sentence of the vulgate constitute a single sentence. 
-
-
 
 ## SS Vulgate 1.36.5: Seasonal Collection by Plant Part vs Seasonal Collection by Plant Nature
 
@@ -122,7 +118,7 @@ In this passage, the opinions of several authorities, namely Śaunaka, Kṛtavī
 
 The *Carakasaṃhitā* (4.6.21) maintains a similar view, indicating that, unlike several other instances marked by the *tat tu na samyak* phrase, there is no disagreement between Caraka and Suśruta on this point. However, a philological discrepancy exists regarding the attribution of this final view: the vulgate attributes this final summary view to Dhanvantari (HIML: 1A, 247), while the Nepalese version does not. Ḍalhaṇa apparently did not have this attribution in the text before him, suggesting that it may have been added after the twelfth century. However, in the *Carakasaṃhitā*, this view is attributed to Dhanvantari. It seems likely that the name Dhanvantari was here added to the *Suśrutasaṃhitā* because of the passage in the *Carakasaṃhitā*.
 
-## SS Vulgate 3.9.3:
+## SS Vulgate 3.9.3: *dhamanī*, *śirā* and *srotas* are essentially the same vs they are different
 
 The discussion here concerns the distinction between pipes (*dhamanī*), ducts (*śirā*), and tubes (*srotas*). The *Suśrutasaṃhitā* introduces and subsequently dismisses the view of certain teachers who argue that there is no difference between ducts, pipes, and tubes, because pipes and tubes are just types of ducts. Rejecting this opinion, the text maintains that Pipes, tubes and ducts are quite different because of the difference in their colours, in their connections to their roots, because of their divergent  functions, and because of traditional doctrine. The text explains that that the distinct functions only appear to have no functional difference because of the close proximity of their mutual ramifications, the similarity of their functions, and their smallness.
 
@@ -154,23 +150,53 @@ In the Nepalese version, it reads:
 
 This *ity eke* phrase in the vulgate is most likely a corrupt reading. Notably, it is not followed by the dismissive *tat tu na samyak* phrase. Therefore, it is clear that the *Suśrutasaṃhitā* in fact endorses this opinion. Furthermore, Ḍalhaṇa's use of the lemma *śuddhaḥ*, which appears in the Nepalese version, instead of *śuddhatvāt* of the vulgate, suggests that Ḍalhaṇa's version is closer to the Nepalese version in this case than to the vulgate. 
 
-## SS Vulgate 4.6.4: 
+## SS Vulgate 4.5.3: *Vātarakta*: two separate states vs a continuum
 
+This passage discusses the classification of *vātarakta* (a disease caused by vitiated wind and blood). The view discarded in the *Suśrutasaṃhitā* refers to its two types: superficial (*uttāna*) and deep (*avagāḍha*). The text argues against this opinion explaining that, much like certain skin condition such as *kuṣṭha*, the disease initially appears superficially and then, over time, taturally progresses into deeper level. Thus, the disease should not be classified into two separate types. 
 
-
-> [tato yaṣṭīmadhukamiśreṇasarpiṣā nirvāpya yantram upanīyotthāpy āturasuṣṇodake 'vagāhya śītābhir adbhiḥ pariṣecayet | aśītābhir adbhir ity eke | ](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20?upama_scroll=SS.4.6.4)
-
-## SS 4.5.3
-
-> 4.5.3
-> dvividhaṃ vātaraktam uttānam avagāḍhaṃ cety eke bhāṣante || 
-> tat tu na samyak kasmāt kuṣṭhavad uttānam bhūtvā kālāntareṇāvagāḍhībhavati | tasmād dvitvasaṃkhyā hīyate | 
+> [dvividhaṃ vātaraktam uttānam avagāḍhaṃ **cety eke bhāṣante || 
+> tat tu na samyak** kasmāt kuṣṭhavad uttānam bhūtvā kālāntareṇāvagāḍhībhavati | tasmād dvitvasaṃkhyā hīyate | ](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20?upama_scroll=SS.4.5.3)
 
 Emmerick 1984:101  pointed out that the view being criticized in Su.4.5.3  is found in *Carakasaṃhitā* 6.29.19.  It is also found in 1.19.3.
 
+## SS Vulgate 4.6.4: Sprinkling a piles patient with cold water vs hot water
 
-## SS 4.7.33
+This passage occurs in the context of the procedure for treating piles. After performing the recommended procedure the physician has the patient bathe in warm water and sprinkles him with cold water; according to some, however, hot water should be used. This alternative view is not rejected in the text.
+
+ The text in the Nepalese version reads as follows:
+
+> [tato yaṣṭīmadhukamiśreṇasarpiṣā nirvāpya yantram upanīyotthāpy āturam uṣṇodake 'vagāhya śītābhir adbhiḥ pariṣecayet | aśītābhir adbhir **ity eke** | ](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20?upama_scroll=SS.4.6.4)
+
+The *Carakasaṃhitā* does mention bathing the patient in warm water (6.14.47), but it does not refer to any procedure for sprinkling the patient with either cold or hot water. 
+
+## SS Vulgate 4.7.33: Surgical removal of urinary calculi: incision on the left side vs right side of the raphe
+
+This passage presents two differing opinions regarding the surgical procedure for the removal of urinary calculi. The primary instruction says that the incision should be made on the left side of the perineal raphe. However, an alternative view suggests that the incision may be made on the right side for the sake of procedural convenience. 
+
+The text in the Nepalese version reads as follows:
+
+> [tataḥ sevanyāḥ savye pārśve sevanī yavamātreṇāvamucyāvacārayec chastraṃ | aśmarīpramāṇād dakṣiṇato vā kriyā saukaryahetor **ity eke** | ](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-1-20/provisional-edition_cikitsasthana_01-20?upama_scroll=SS.4.7.33)
+
+The alternative view, introduced by the phrase *ity eke*, is not followed by a dismissive clause. Instead, both approaches are presented as optional techniques.
+
+The *Carakasaṃhitā* does not include a discussion of this procedure. 
+
+## SS Vulgate 4.31.6: Proportions in the preparation of herbal decoction
+
+In this passage, the dismissed opinion concerns the preparation of herbal decoction. It says that according to some, one part of plant material, such as bark, leaves, fruit, root etc., should be boiled in four parts water and reduced to one-fourth of its original volume—this is the method of preparing decoction. The text explicitly rejects this method, arguing that it lacks scriptural authority. 
+
+The text in the Nepalese version reads as follows:
+
+> [tatra kecid āhus tvakpatrapuṣpaphalādīnāṃ bhāgas taccaturguṇam udakaṃ caturthāṃśāvaśeṣitaṃ kvāthyāvatārayed ity eṣa kaṣāyakalpaḥ | **tat tu na samyak** kasmād āgamasiddhatvāt](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?upama_scroll=SS.4.31.6)
+
+The vulgate version explands on this passage by also including the preparation of medicinal fat base, which is absent in the Nepalese version. The vulgate rejects the proposed methods for both preparations simultaneously. The text in the vulgate reads as follows:
+
+> [tatra kecid āhuḥ tvakpatraphalamūlādīnāṃ bhāgas taccaturguṇaṃ jalaṃ caturbhāgāvaśeṣaṃ niṣkvāthyāpahared ity eṣa kaṣāyapākakalpaḥ; snehaprasṛteṣu ṣaṭsu caturguṇaṃ dravam āvapya caturaś cākṣasamān bheṣajapiṇḍānity eṣa snehapākakalpaḥ| etat tu na samyak; kasmāt āgamāsiddhatvāt ||](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/04-ci-vulgate-1938_21-40?upama_scroll=SS.4.31.6)
+
+There is no parallel passage in the *Carakasaṃhitā*. 
+
 ## SS 4.35.9
+
 ## SS 5.4.34
 ## SS 5.4.38
 ## 6.46.10
