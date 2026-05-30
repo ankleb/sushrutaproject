@@ -2747,7 +2747,7 @@
                     <l xml:id="SS.4.5.9">
                         <label xml:lang="en">cf. 1938 ed. 4.5.9</label>
                         <caesura/>
-                         raktaprabale py evaṃ bahuśaś ca śoṇitam avasecayet || </l>
+                         raktaprabale 'py evaṃ bahuśaś ca śoṇitam avasecayet || </l>
 
                     <l xml:id="SS.4.5.10">
                         <label xml:lang="en">cf. 1938 ed. 4.5.10</label>
