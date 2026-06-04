@@ -1168,11 +1168,11 @@ Special Note:
 
                     <l xml:id="SS.4.3.8ab"> saptarātrāt saptarātrāt saumyeṣv ṛtuṣu bandhanaṃ | </l>
 
-                    <l xml:id="SS.4.3.8.add"> karttavyañ ca trirātraṃ syāt
+                    <l xml:id="SS.4.3.8.add1"> karttavyañ ca trirātraṃ syāt
                                 tathā<subst><del>gneye</del>
                             <add place="below">grīṣme</add></subst>ṣu jānatā || </l>
 
-                    <l xml:id="SS.4.8b"> kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>
+                    <l xml:id="SS.4.3.8add2"> kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>
 
                     <l xml:id="SS.4.3.9"> tatrā<pb n="212v" facs="216"/>tiśithilaṃ baddhe sandhiḥ
                         sthairyan na jāyate || </l>
@@ -4805,7 +4805,7 @@ C) Special Notes:
                         pāmāvad upacāro 'hipūtanavac ca || </l>
 
                     <l xml:id="SS.4.20.61">
-                        <pb n="263v" facs="267"/><lb n="1"/>gudabhraṃse tu gudaṃ
+                        <pb n="253v" facs="267"/><lb n="1"/>gudabhraṃse tu gudaṃ
                         svedyasnehenābhyajya praveśya praviṣṭe ca svedaṃ kuryād
                         uccāranirggamanārthaṃ | chidreṇa cāsya carmmaṇā kaupīnabandhaḥ | </l>
 
@@ -4844,8 +4844,7 @@ C) Special Notes:
         </body>
     </text>
     <facsimile>
-        <!--        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_5-333_manifest.json"/>-->
-        <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"/>
+           <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"/>
     </facsimile>
 
 </TEI>

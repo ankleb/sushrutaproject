@@ -855,7 +855,7 @@
     </text>
 
     <facsimile>
-		<graphic url="https://iiif.archive.org/iiif/699-updated-filenames/manifest.json"/>
+    <graphic url="https://iiif.archive.org/iiif/699-updated-filenames/manifest.json"/>
     </facsimile>
 
 </TEI>
