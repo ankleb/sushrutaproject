@@ -43,7 +43,7 @@ In this case, the "some say" statement is found in both the Nepalese version and
 
 This passage raises objection against the opinion of certain other teachers that a substance is never absolutely wholesome or unwholesome because we see what is wholesome for the wind is wholesome for the bile. The *Suśrutasaṃhitā* does not accept this view. It believes that whether by their inherent nature or through specific combination, substances can be absolutely wholesome or absolutely unwholesome or both wholesome and unwholesome. 
 
-**[Caraka's reference needs to be added]**  
+From the discussion in *Carakasaṃhitā* 1.25, it is clear that the text maintains that certain foods are inherently wholesome and others inherently unwholesome, a position congruent with the view of the *Suśrutasaṃhitā*.
 
 
 ## SS Vulgate 1.27.18:
@@ -191,12 +191,30 @@ The text in the Nepalese version reads as follows:
 
 The vulgate version explands on this passage by also including the preparation of medicinal fat base, which is absent in the Nepalese version. The vulgate rejects the proposed methods for both preparations simultaneously. The text in the vulgate reads as follows:
 
-> [tatra kecid āhuḥ tvakpatraphalamūlādīnāṃ bhāgas taccaturguṇaṃ jalaṃ caturbhāgāvaśeṣaṃ niṣkvāthyāpahared ity eṣa kaṣāyapākakalpaḥ; snehaprasṛteṣu ṣaṭsu caturguṇaṃ dravam āvapya caturaś cākṣasamān bheṣajapiṇḍānity eṣa snehapākakalpaḥ| etat tu na samyak; kasmāt āgamāsiddhatvāt ||](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/04-ci-vulgate-1938_21-40?upama_scroll=SS.4.31.6)
+> [tatra kecid āhuḥ tvakpatraphalamūlādīnāṃ bhāgas taccaturguṇaṃ jalaṃ caturbhāgāvaśeṣaṃ niṣkvāthyāpahared ity eṣa kaṣāyapākakalpaḥ; snehaprasṛteṣu ṣaṭsu caturguṇaṃ dravam āvapya caturaś cākṣasamān bheṣajapiṇḍānity eṣa snehapākakalpaḥ| **etat tu na samyak**; kasmāt āgamāsiddhatvāt ||](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/04-ci-vulgate-1938_21-40?upama_scroll=SS.4.31.6)
 
 There is no parallel passage in the *Carakasaṃhitā*. 
 
-## SS 4.35.9
+## SS Vulgate 4.35.9: Size of the orifice of enema nozzle: like a jujube seed vs like a moistened pea
 
-## SS 5.4.34
-## SS 5.4.38
-## 6.46.10
+This passage occurs in the context of the enema therapy. For patients above the age of twenty-five, the text recommends that the orifice of the enema nozzle be the size of a jujube seed (*kolāsthi*), while an alternative view suggests it should be the size of a moistened pea (*klinna-kalāya*). The alternative opinion, introduced by the phrase *ity eke*, is not followed by a dismissive clause. Thus, the second view remains as an acceptable option. 
+
+The text in the Nepalese version reads as follows.  
+
+> [pañcaviṃśativarṣād ūrddhvaṃ dvādaśāṅgulapramāṇam aṅguṣṭhodarapariṇāham agre tryaṅgulasanniviṣṭakarṇikaṃ gṛdhrapatranāḍītulyapraveśaṃ kolāsthimātraṃ cchidraṃ klinnakalāyamātracchidram **ity eke** ||](https://saktumiva.org/wiki/wujastyk/susrutasamhita/04-su.ci-21-40/provisional-edition_cikitsasthana_21-40?upama_scroll=SS.4.35.9)
+
+A similar parameter is found in the *Carakasaṃhitā* (8.3.8), which states that the size of the orifice of the enema nozzle for a patient twenty years of age should be the size of a jujube seed (*karkandhu*).
+
+> ṣaḍdvādaśāṣṭāṅgulasammitāni ṣaḍviṃśatidvādaśavarṣajānām |
+> syur mudgakarkandhusatīnavāhicchidrāṇi vartyāpihitāni caiva || Carakasaṃhitā 8.3.8
+
+## SS Vulgate 5.4.34: Paternal vs maternal traits in hybrid offspring of snakes
+
+This passage concerns the hereditary dominance of traits in hybrid snakes. According to the *Suśrutasaṃhitā*, their poison is like that of their father due to the superiority of the paternal trait (*utkarṣāt*). The text also recognizes the alternative opinion of others, introduced by the phrase *ity eke*, which states that the poison resembles that of the mother. Because this alternative view is not followed by a dismissive clause, it remains an acceptable option.
+
+The text in the Nepalese version is as follows:
+
+> [vaikarañjās tu trayāṇāṃ varṇṇānāṃ vyatirekajās tad yathā | mākuliḥ poṭagalaḥ snigdharājiś ceti || tatra kṛṣṇasarpeṇa gonasyāṃ vaiparītyena vā jāto mākuliḥ | rājilena gonasyāṃ vaiparītyena vā jātaḥ poṭagalaḥ | kṛṣṇasarpeṇa rājimatyāṃ vaiparītyena vā jātaḥ snigdharājir iti | teṣāṃ pitṛvad viṣam utkarṣād dvayor mātṛvad **ity eke** |](https://saktumiva.org/wiki/wujastyk/susrutasamhita/05-su.ka/provisional-edition_kalpasthana?upama_scroll=SS.5.4.34.add-5)
+
+There is no parallel passage in the *Carakasaṃhitā*. 
+

@@ -3334,10 +3334,9 @@ Metre Break
                         <caesura/>
                          vayo balaśarīrāṇi samīkṣyotkarṣayed vidhiṃ ||</l>
 
-                    <l xml:id="SS.4.35.9">pañcaviṃśativarṣādūrddhvan
+                    <l xml:id="SS.4.35.9">pañcaviṃśativarṣād ūrddhvan
                         dvādaśāṅgulalapramāṇam aṃguṣṭhodarapariṇāham agre
-                        tryaṅgulasanniviṣṭakarṇṇikaṃ gṛdhra<lb n="2"/>
-                        patranāḍītulyapraveśaṃ kolāsthimātraṃ cchidraṃ
+                        tryaṅgulasanniviṣṭakarṇṇikaṃ gṛdhra<lb n="2"/>patra<pc> </pc>nāḍītulyapraveśaṃ kolāsthimātraṃ cchidraṃ
                         klinnakalā<cb/>yamātracchidram ity eke || āsthāpanamātrapramāṇaṃ
                         dvādaśaprasṛtā iti | sapta<add place="top-margin"
                                 ><unclear>saptyā</unclear></add>nyās tu

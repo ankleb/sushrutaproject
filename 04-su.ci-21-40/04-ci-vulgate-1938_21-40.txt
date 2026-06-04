@@ -2026,7 +2026,7 @@
                         saptadaśāṣṭādaśayor divasayor daśanā jāyante śikhariṇaḥ
                         snigdhavajravaidūryasphaṭikaprakāśāḥ samāḥ sthirāḥ sahiṣṇavaḥ,
                         tadā prabhṛti cānavaiḥ śālitaṇḍulaiḥ kṣīrayavāgūm upaseveta yāvat
-                        pañcaviṃśatiriti; tato 'smai dadyāc chālyodanaṃ mṛdūbhayakālaṃ
+                        pañcaviṃśatir iti; tato 'smai dadyāc chālyodanaṃ mṛdūbhayakālaṃ
                         payasā, tato 'sya nakhā jāyante vidrumendragopakataruṇādity
                         aprakāśāḥ, sthirāḥ snigdhā lakṣaṇasaṃpannāḥ keśāś ca sūkṣmā
                         jāyante, tvak ca nīlotpalātasīpuṣpavaidūryaprakāśā; ūrdhvaṃ ca
@@ -3192,10 +3192,10 @@
                         <caesura/>
                          vayobalaśarīrāṇi samīkṣyotkarṣayed vidhim || </l>
 
-                    <l xml:id="SS.4.35.9"> pañcaviṃśaterūrdhvaṃ dvādaśāṅgulaṃ, mūle
+                    <l xml:id="SS.4.35.9"> pañcaviṃśater ūrdhvaṃ dvādaśāṅgulaṃ, mūle
                         'ṅguṣṭhodaraparīṇāham, agre kaniṣṭhikodaraparīṇāham, agre
-                        tryaṅgulasanniviṣṭakarṇikaṃ, gṛdhrapakṣanāḍīṃtulyapraveśaṃ,
-                        kolāsthimātrachidraṃ, klinnakalāyamātrachidramity eke; sarvāṇi
+                        tryaṅgulasanniviṣṭakarṇikaṃ, gṛdhrapakṣa<pc> </pc>nāḍītulyapraveśaṃ,
+                        kolāsthimātrachidraṃ, klinnakalāyamātrachidram ity eke; sarvāṇi
                         mūle bastinibandhanārthaṃ dvikarṇikāni | āsthāpanadravyapraṇāṇaṃ
                         tu vihitaṃ dvādaśaprasṛtāḥ |<pb facs="610" n="529a"/> saptates
                         tūrdhvaṃ netrapramāṇam etad eva, dravyapramāṇaṃ tu
