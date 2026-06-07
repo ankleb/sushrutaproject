@@ -1138,8 +1138,7 @@ C) Special notes :
                         />rbbhago valīpalito sṛṣṭo vahubhug uṣṇadveṣī
                         kṣiprakrodhaprasādaśīlo madhyamāyuś ca bhavati || </l>
 
-                    <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir nnigṛhya
-                        vaktā tejasvī samiti<pb n="172r" facs="175"/><g
+                    <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir nnigṛhyavaktā tejasvī samiti<pb n="172r" facs="175"/><g
                             ref="#newa-placeholder-mark"/>ṣu durnnivāravīryaḥ | suptaḥ saṃ
                         kanakapalāśakarṇṇikārāṃ saṃpaśyed api ca hutāśavidyudulkāṃ || </l>
 
@@ -1151,9 +1150,9 @@ C) Special notes :
 
 
                     <l xml:id="SS.3.4.72"> śleṣmaprakṛtis tu
-                            dūrvvedīsvaranistriṃśārddrāriṣṭakaśarakā<lb n="3"/>ṇḍānām
+                            durvvedīsvaranistriṃśārddrāriṣṭakaśarakā<lb n="3"/>ṇḍānām
                         anyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ | <cb/> kṛtajño
-                        dhṛtimān sahiṣṇur alolupo valavāṃściragrāhī dṛḍhavairodīrghāyuś ca
+                        dhṛtimān sahiṣṇur alolupo valavāṃś ciragrāhī dṛḍhavairo dīrghāyuś ca
                         bhavati || </l>
 
                     <l xml:id="SS.3.4.73"> snighdāṅgaḥ sthirasuvibhaktacārugātro
@@ -2876,8 +2875,6 @@ Half part of 57 found after 64-->
                             garbbhiṇyā<unclear>pūryate daśa ||</unclear></l>
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ || ❈ || </l>
-
-
 
                 </div>
 

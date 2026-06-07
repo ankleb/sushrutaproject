@@ -1135,7 +1135,7 @@
 
                     <l xml:id="SS.3.4.70"> na bhayāt praṇamed anateṣv amṛduḥ
                         <caesura/>
-                         praṇateṣv api sāntvanadān aruciḥ |
+                         praṇateṣv api sāntvanadānaruciḥ |
                         <caesura/>
                          bhavatīha sadā vyathitāsyagatiḥ
                         <caesura/>

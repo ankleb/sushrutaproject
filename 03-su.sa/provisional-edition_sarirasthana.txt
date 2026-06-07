@@ -2227,7 +2227,7 @@
                         <caesura/>
                          bhavati cātra ||
                         <caesura/>
-                         medhāvī nipuṇamatir nnigṛhya vaktā
+                         medhāvī nipuṇamatir nnigṛhyavaktā
                         <caesura/>
                          tejasvī samitiṣu durnnivāravīryaḥ |
                         <caesura/>
@@ -2251,9 +2251,9 @@
                     <l xml:id="SS.3.4.72">
                         <label xml:lang="en">cf. 1938 ed. 3.4.72</label>
                         <caesura/>
-                         śleṣmaprakṛtis tu dūrvvedīsvaranistriṃśārddrāriṣṭakaśarakāṇḍānām
+                         śleṣmaprakṛtis tu dūrvvendīvaranistriṃśārddrāriṣṭakaśarakāṇḍānām
                         anyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ | kṛtajño
-                        dhṛtimān sahiṣṇur alolupo valavāṃściragrāhī dṛḍhavairodīrghāyuś ca
+                        dhṛtimān sahiṣṇur alolupo balavāṃś ciragrāhī dṛḍhavairo dīrghāyuś ca
                         bhavati || </l>
 
                     <l xml:id="SS.3.4.73" met="toṭaka">
