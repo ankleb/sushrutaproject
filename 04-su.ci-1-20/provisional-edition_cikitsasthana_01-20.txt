@@ -1101,6 +1101,7 @@
 
 
 
+
                 </div>
 
                 <div n="2" type="adhyāya">
@@ -1752,6 +1753,7 @@
 
 
 
+
                 </div>
 
                 <div corresp="4.3. in NAK 5-333" n="3" type="adhyāya">
@@ -2237,6 +2239,7 @@
 
 
 
+
                 </div>
 
                 <div n="4" type="adhyāya">
@@ -2593,6 +2596,7 @@
 
 
 
+
                 </div>
 
                 <div n="5" type="adhyāya">
@@ -2763,9 +2767,19 @@
                         vā | mastu<pc> </pc>mūtra<pc> </pc>surā<pc> </pc>śuktā<pc
                             > </pc>madhuka<pc> </pc>sārivā<pc> </pc>padmaka<pc
                         > </pc>siddhena vā sarppiṣābhyaṅgaḥ | śvetasarṣṣapakalkaḥ |
-                        tilāśvagandhākalkaḥ | dāruśelukapitthakalkaḥ |
-                        madhuśigrupunarnnavākalkaḥ | vyoṣatiktāpṛthakparṇṇībṛhatīkalkair
-                        vvā | evam ete pañca pradehāḥ kṣārodakapiṣṭāḥ vyākhyātāḥ ||</l>
+                        tilāśvagandhākalkaḥ |<anchor n="SS.4.5.10-n1"/>
+                        dāruśelukapitthakalkaḥ | madhuśigrupunarnnavākalkaḥ |
+                        vyoṣatiktāpṛthakparṇṇībṛhatīkalkair vvā | evam ete pañca pradehāḥ
+                        kṣārodakapiṣṭāḥ vyākhyātāḥ ||</l>
+
+                    <ab corresp="#SS.4.5.10" type="apparatus">
+                        <list type="Note">
+                            <item xml:lang="en" corresp="#SS.4.5.10-n1">A scribe recorded
+                                a reading <foreign xml:lang="sa">yavāgū</foreign> in the
+                                top margin, apparently wanting to replace one of the terms
+                                in this line, but it is unclear which.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.4.5.11">
                         <label xml:lang="en">cf. 1938 ed. 4.5.11</label>
@@ -2775,15 +2789,15 @@
                     <l xml:id="SS.4.5.12">
                         <label xml:lang="en">cf. 1938 ed. 4.5.12</label>
                         <caesura/>
-                         sarvveṣu ca guḍaharītakīm āseveta | pippalyo vā kṣīrapiṣṭāḥ |
+                         sarvveṣu ca guḍaharītakīm āseveta | pippalīr vā kṣīrapiṣṭāḥ
                         pañcābhivṛddhyā pibet kṣīrodanāhāro daśarātraṃ | pañcābhivṛddhyā
-                        bhūyañ cāpakarṣayet | evam eva yāvatyañ ceti | tad etat
+                        bhūyaś cāpakarṣayet | evam eva yāvat pañceti | tad etat
                         pippalīvarddhamānakam ācakṣate || etad dhi
                         vātaśoṇitaviṣamajvarārocakapāṇḍurogodarārśaḥśvāsakāsaśoṣāgnisādahṛdrogān
                         upahanti | pradehaḥ
-                        sahācandanamūrvvāpiyālaśatāvarīkaśerukāsahadevāpadmakamadhukaśatapuṣpākuṣṭhāyavāgūpāṭhaḥ
-                        |ni śailepakāṭarūṣakabalātibalājīvantīkalko vā kṣīrayuktaḥ |
-                        kāśmaryamadhukatarppaṇakalko vā ghṛtamaṇḍayuktaḥ |
+                        sahācandanamūrvvāpiyālaśatāvarīkaśerukāsahadevāpadmakamadhukaśatapuṣpākuṣṭhāni
+                        śailepakāṭarūṣakabalātibalājīvantīkalko vā
+                        kṣīrayuktaḥ | kāśmaryamadhukatarppaṇakalko vā ghṛtamaṇḍayuktaḥ |
                         madhūcchiṣṭaśārivāsarjjarasamadhukamadhuravarggakṣīrasiddham vā
                         piśutailam iti ||
                         purāṇaghṛtamāmalakasaralavipakvaśarkkarāmadhumadhuraṃm pānārthe |
@@ -3018,6 +3032,7 @@
                     <l xml:id="SS.4.5.45"/>
 
                     <l xml:id="SS.4.5.trailer"> ci 5</l>
+
 
 
 
@@ -3556,6 +3571,7 @@
 
 
 
+
                 </div>
 
                 <div corresp="4.8. in NAK 5-333" n="8" type="adhyāya">
@@ -3957,6 +3973,7 @@
 
                     <l xml:id="SS.4.8.trailer"> iti || ciki<unclear extent="1" unit="char"
                         /> ||</l>
+
 
 
 
@@ -4391,6 +4408,7 @@
 
 
 
+
                 </div>
 
                 <div n="10" type="adhyāya">
@@ -4553,6 +4571,7 @@
 
 
 
+
                 </div>
 
                 <div n="11" type="adhyāya">
@@ -4681,6 +4700,7 @@
                          samvatsarāntarāt puṃsaḥ pramehān pratimucyate iti || pra ||</l>
 
                     <l xml:id="SS.4.11.trailer">pramehacikitsā ekādaśa ||</l>
+
 
 
 
@@ -4822,6 +4842,7 @@
                         tadārogam pracakṣata iti ||</l>
 
                     <l xml:id="SS.4.12.trailer"> ṃ || cikitsādvādaśa || </l>
+
 
 
 
@@ -5078,6 +5099,7 @@
 
 
 
+
                 </div>
 
                 <div n="14" type="adhyāya">
@@ -5291,6 +5313,7 @@
                         iti ||</l>
 
                     <l xml:id="SS.4.14.trailer"> cikitsā 14 || 0 ||</l>
+
 
 
 
@@ -5608,6 +5631,7 @@
 
 
                     <l xml:id="SS.4.15.trailer">|| cikitsaa 15 ||</l>
+
 
 
 
@@ -6543,6 +6567,7 @@
 
 
 
+
                 </div>
 
                 <div n="19" type="adhyāya">
@@ -6960,6 +6985,7 @@
                          kuryāc chītakriyāñ cāpi vraṇoktañ ca vidhin tatheti || </l>
 
                     <l xml:id="SS.4.19.trailer"> ci 19 ||</l>
+
 
 
 
