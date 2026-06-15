@@ -1190,9 +1190,16 @@
                         <caesura/>
                          śatadhautaghṛtonmiśraṃ śālipiṣṭaṃ ca saṃharet || </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.4.3.8"> saptāhād atha saptāhāt saumyeṣv ṛtuṣu bandhanam
+                        |
+                        <caesura/>
+                         sādhāraṇeṣu kartavyaṃ pañcame pañcame 'hani || </l>
+=======
                     <l xml:id="SS.4.3.8ab"> saptāhād atha saptāhāt saumyeṣv ṛtuṣu
                         bandhanam | </l>
                     <l xml:id="SS.4.3.8cd"> sādhāraṇeṣu kartavyaṃ pañcame pañcame 'hani || </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.4.3.9"> āgneyeṣu tryahā tu kuryād bhagnadoṣavaśena vā |
                         <caesura/>
@@ -1723,9 +1730,14 @@
                         upanāhaḥ, mātuluṅgāmlasaindhavaghṛtamiśraṃ madhuśigrumūlam
                         ālepastilakalko veti vātaprabale || </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.4.5.8"> pittaprabale
+                        drākṣā<pc> </pc>revata<pc> </pc>kaṭphala<pc> </pc>payasyā<pc> </pc>madhuka<pc> </pc>candana<pc> </pc>kāśmarya<pc> </pc>kaṣāyaṃ
+=======
                     <l xml:id="SS.4.5.8"> pittaprabale drākṣā<pc> </pc>revata<pc
                             > </pc>kaṭphala<pc> </pc>payasyā<pc> </pc>madhuka<pc
                             > </pc>candana<pc> </pc>kāśmarya<pc> </pc>kaṣāyaṃ
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         śarkarāmadhumadhuraṃ pāyayet,
                         śatāvarīmadhukapaṭolatriphalākaṭurohiṇīkaṣāyaṃ, guḍūcīkaṣāyaṃ vā,
                         pittajvaraharaṃ vā candanādikaṣāyaṃ śarkarāmadhumadhuraṃ,
@@ -1734,6 +1746,15 @@
                         kṣīrekṣurasair madhukaśarkarātaṇḍulodakair vā
                         drākṣekṣukaṣāyamiśrair vā mastumadyadhānyāmlaiḥ; jīvanīyasiddhena
                         vā sarpiṣā 'bhyaṅgaḥ, śatadhautaghṛtena vā,
+<<<<<<< HEAD
+                        kākolyādikalkakaṣāyavipakvena vā sarpiṣā;
+                        śāliṣaṣṭika<pc> </pc>nala<pc> </pc>vañjula<pc> </pc>tālīsa<pc> </pc>śṛṅgāṭaka<pc> </pc>galoḍya<pc> </pc>gaurīgairika<pc> </pc>śaivala<pc> </pc>padmaka<pc> </pc>padmapatra<pc> </pc>prabhṛtibhir dhānyāmlapiṣṭaiḥ pradeho
+                        ghṛtamiśraḥ, vātaprabale 'pyeṣa sukhoṣṇaḥ pradehaḥ kāryaḥ || </l>
+
+                    <l xml:id="SS.4.5.9"><pb facs="510" n="426a"/> raktaprabale 'py
+                        anevaṃ, bahuśaś ca śoṇitam avasecayet, śītatamāś ca pradehāḥ kāryā
+                        iti || </l>
+=======
                         kākolyādikalkakaṣāyavipakvena vā sarpiṣā; śāliṣaṣṭika<pc
                             > </pc>nala<pc> </pc>vañjula<pc> </pc>tālīsa<pc
                             > </pc>śṛṅgāṭaka<pc> </pc>galoḍya<pc
@@ -1744,6 +1765,7 @@
 
                     <l xml:id="SS.4.5.9"><pb facs="510" n="426a"/> raktaprabale 'py evaṃ,
                         bahuśaś ca śoṇitam avasecayet, śītatamāś ca pradehāḥ kāryā iti || </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.4.5.10"> śleṣmaprabale tv āmalakaharidrākaṣāyaṃ
                         madhumadhuraṃ pāyayet, triphalākaṣāyaṃ vā;
@@ -1751,6 +1773,19 @@
                         mūtratoyayor anyatareṇa guḍaharītakīṃ vā bhakṣayet;
                         tailamūtrakṣārodakasurāśuktakaphaghnauṣadhaniḥkvāthaiś ca
                         pariṣekaḥ, āragvadhādikaṣāyair voṣṇaiḥ;
+<<<<<<< HEAD
+                        mastumūtrasurāśuktamadhukasārivāpadmakasiddhaṃ vā ghṛtamabhyaṅgaḥ;
+                        tilasarṣapātasīyavacūrṇāni śleṣmātakakapitthamudhuśigrumiśrāṇi
+                        kṣāramūtrapiṣṭāni pradehaḥ; śvetasarṣapakalkaḥ,
+                        tilāśvagandhākalkaḥ, priyālaselukapitthakalkaḥ,
+                        madhuśigrupunarnavākalkaḥ, vyoṣatiktāpṛthakparṇībṛhatīkalka ity
+                        eteṣāṃ pañca pradehāḥ sukhoṣṇāḥ kṣārodakapiṣṭāḥ, śāliparṇī
+                        pṛśniparṇī bṛhatyau vā kṣīrapiṣṭāstarpaṇamiśrāḥ || </l>
+
+
+
+                    <l xml:id="SS.4.5.11"> saṃsarge sannipāte ca kriyāpathamuktaṃ miśraṃ
+=======
                         mastu<pc> </pc>mūtra<pc> </pc>surā<pc> </pc>śukta<pc> </pc>madhuka<pc> </pc>sārivā<pc> </pc>padmaka<pc> </pc>siddhaṃ vā ghṛtam
                         abhyaṅgaḥ; tilasarṣapātasīyavacūrṇāni
                         śleṣmātakakapitthamudhuśigrumiśrāṇi kṣāramūtrapiṣṭāni pradehaḥ;
@@ -1763,6 +1798,7 @@
 
 
                     <l xml:id="SS.4.5.11"> saṃsarge sannipāte ca kriyāpatham uktaṃ miśraṃ
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         kuryāt || </l>
 
                     <l xml:id="SS.4.5.12"> sarveṣu ca guḍaharītakīm āseveta; pippalīr vā
@@ -2398,7 +2434,10 @@
 
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="8" subtype="adhyāya" type="level2">
@@ -3104,7 +3143,10 @@
 
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="10" subtype="adhyāyaḥ" type="level2">

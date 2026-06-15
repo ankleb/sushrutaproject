@@ -96,8 +96,12 @@
             <change when="2026-02-14" who="Dominik Wujastyk">commented out the filiation
                 so that siglum A isn't bold. We aren't including the 1931 edition in our
                 collations, normally.</change>
+<<<<<<< HEAD
+            <change who="Dominik Wujastyk" when="2026-05-01">Completed update of pb elements pointing to IIIF images</change>
+=======
             <change who="Dominik Wujastyk" when="2026-05-01">Completed update of pb
                 elements pointing to IIIF images</change>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
         </revisionDesc>
     </teiHeader>
@@ -1038,7 +1042,11 @@
                          nidrārtasyeva yasyehā tasya tandrāṃ vinirdiśet ||49|| </l>
                     <pb facs="444" n="360a"/>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.3.4.50"> pītvaikamanilocchvāsamudveṣṭan vivṛtānanaḥ |
+=======
                     <l xml:id="SS.3.4.50"> pītvaikam anilocchvāsam udveṣṭan vivṛtānanaḥ |
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         <caesura/>
                          yaṃ muñcati sanetrāsraṃ sa jṛmbha iti saṃjñitaḥ ||50|| </l>
 
@@ -1054,20 +1062,33 @@
                     <l xml:id="SS.3.4.53"> utkliśyānnaṃ na nirgacchet prasekaṣṭhīvaneritam
                         |
                         <caesura/>
+<<<<<<< HEAD
+                         hṛdayaṃ pīḍyate cāsya tamutkleśaṃ vinirdiśet ||53|| </l>
+=======
                          hṛdayaṃ pīḍyate cāsya tam utkleśaṃ vinirdiśet ||53|| </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.3.4.54"> vaktre madhuratā tandrā hṛdayodveṣṭanaṃ bhramaḥ
                         |
                         <caesura/>
+<<<<<<< HEAD
+                         na cānnamabhikāṅkṣeta glāniṃ tasya vinirdiśet ||54||</l>
+=======
                          na cānnam abhikāṅkṣeta glāniṃ tasya vinirdiśet ||54||</l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.3.4.55"> ārdracarmāvanaddhaṃ vā yo gātraṃ manyate naraḥ
                         |
                         <caesura/>
                          tathā guru śiro 'tyarthaṃ gauravaṃ tad vinirdiśet ||55|| </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.3.4.56"> mūrcchā pittatamaḥprāyā, rajaḥpittānilād bhramaḥ
+                        |
+=======
                     <l xml:id="SS.3.4.56"> mūrcchā pittatamaḥprāyā, rajaḥpittānilād
                         bhramaḥ |
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         <caesura/>
                          tamovātakaphā ttandrā, nidrā śleṣmatamobhavā ||56|| </l>
 
@@ -1105,8 +1126,13 @@
                         durbhagaḥ steno matsaryanāryo gāndharvacittaḥ sphuṭitakaracaraṇo
                         'lparūkṣaśmaśrunakhakeśaḥ krāthī dantakhādī ca bhavati ||64|| </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.3.4.65"> adhṛtiradṛḍhasauhṛdaḥ kṛtaghnaḥ kṛśaparuṣo
+                        dhamanītataḥ pralāpī | drutagatiraṭano 'navasthitātmā viyati ca
+=======
                     <l xml:id="SS.3.4.65"> adhṛtir adṛḍhasauhṛdaḥ kṛtaghnaḥ kṛśaparuṣo
                         dhamanītataḥ pralāpī | drutagatir aṭano 'navasthitātmā viyati ca
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         gacchati saṃbhrameṇa suptaḥ ||65||</l>
 
                     <l xml:id="SS.3.4.66"> avyavasthitamatiś caladṛṣṭir
@@ -1133,6 +1159,13 @@
                         <caesura/>
                          saṃpaśyed api ca hutāśavidyudulkāḥ ||69|| </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.3.4.70"> na bhayāt praṇamed anateṣv amṛduḥ praṇateṣv api
+                        sāntvanadānaruciḥ |
+                        <caesura/>
+                         bhavatīha sadā vyathitāsya gatiḥ sa bhaved iha pittakṛtaprakṛtiḥ
+                        ||70|| </l>
+=======
                     <l xml:id="SS.3.4.70"> na bhayāt praṇamed anateṣv amṛduḥ
                         <caesura/>
                          praṇateṣv api sāntvanadānaruciḥ |
@@ -1140,6 +1173,7 @@
                          bhavatīha sadā vyathitāsyagatiḥ
                         <caesura/>
                          sa bhaved iha pittakṛtaprakṛtiḥ ||70|| </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.3.4.71"> (bhujaṅgolūkagandharvayakṣamārjāravānaraiḥ |
                         <caesura/>
@@ -2588,10 +2622,17 @@
 
                     <l xml:id="SS.3.10.37"> teṣu yathābhihitaṃ mṛdv acchedanīyam auṣadhaṃ
                         mātrayā kṣīrapasya kṣīrasarpiṣā saṃyuktaṃ vidadhyāt, dhātryāś ca
+<<<<<<< HEAD
+                        kevalaṃ, kṣīrānnād asyātmani dhātryāś ca pūrvavat, annādasya
+                        kaṣāyādīn ātmany eva na dhātryāḥ ||37|| </l>
+
+                    <l xml:id="SS.3.10.38"> tatra māsādūrdhvaṃ
+=======
                         kevalaṃ, kṣīrānnād asyātmani dhātryāś ca pūrvavat, annād asya
                         kaṣāyādīn ātmany eva na dhātryāḥ ||37|| </l>
 
                     <l xml:id="SS.3.10.38"> tatra māsād ūrdhvaṃ
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         kṣīrapāyāṅguliparvadvayagrahaṇasaṃmitāmauṣadhamātrāṃ vidadhyāt,
                         kolāsthisaṃmitāṃ kalkamātrāṃ kṣīrānnādāya, kolasaṃmitāmannādāyeti
                         ||38|| </l>
@@ -2607,10 +2648,16 @@
 
                     <l xml:id="SS.3.10.41"> na ca tṛṣṇābhayādatra pāyayeta śiśuṃ stanau |
                         <caesura/>
+<<<<<<< HEAD
+                         virekabastivamanānyṛte kuryāc ca nātyayāt ||41||</l>
+
+                    <l xml:id="SS.3.10.42"> mastuluṅgakṣayādyasya vāyustālvasthi nāmayet |
+=======
                          virekabastivamanāny ṛte kuryāc ca nātyayāt ||41||</l>
 
                     <l xml:id="SS.3.10.42"> mastuluṅgakṣayād yasya vāyus tālvasthi nāmayet
                         |
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         <caesura/>
                          tasya tṛḍdainyayuktasya sarpirmadhurakaiḥ śṛtam ||42|| </l>
 

@@ -5557,7 +5557,12 @@ vulgate upto verse no. 12 -->
         </body>
     </text>
     <facsimile>
+<<<<<<< HEAD
+        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_1_1079_manifest.json"
+        />
+=======
         <graphic url="https://iiif.archive.org/iiif/1_1079/manifest.json"/>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
     </facsimile>
 
 </TEI>

@@ -2,7 +2,10 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 
         <fileDesc>
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <titleStmt>
                 <title>The Nepalese Version of the Suśrutasaṃhitā, Cikitsāsthāna, adhyāyas
                     1-20, based on the Nepalese MSS</title>
@@ -112,7 +115,10 @@
                 lable, for clarity when reading on screen.</change>
 
         </revisionDesc>
+<<<<<<< HEAD
+=======
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
     </teiHeader>
 
     <text xml:lang="sa-Latn-t-sa-Deva" type="edition">
@@ -1100,8 +1106,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="2" type="adhyāya">
@@ -1753,8 +1762,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div corresp="4.3. in NAK 5-333" n="3" type="adhyāya">
@@ -1809,6 +1821,15 @@
 
                     <l xml:id="SS.4.3.8cd"/>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.4.3.8.add">
+                        <label xml:lang="en">cf. 1938 ed. 4.3.8.add</label>
+                        <caesura/>
+                         karttavyañ ca trirātraṃ syāt tathā grīṣmeṣu jānatā || </l>
+
+                    <l xml:id="SS.4.8b">
+                        <label xml:lang="en">cf. 1938 ed. 4.8b</label>
+=======
                     <l xml:id="SS.4.3.8.add1">
                         <label xml:lang="en">4.3.8.add1</label>
                         <caesura/>
@@ -1816,6 +1837,7 @@
 
                     <l xml:id="SS.4.3.8.add2">
                         <label xml:lang="en">4.3.8.add2</label>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         <caesura/>
                          kāle tu samaśītoṣṇe pañcarātrān nibandhayet | </l>
 
@@ -2239,8 +2261,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="4" type="adhyāya">
@@ -2596,8 +2621,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="5" type="adhyāya">
@@ -2740,29 +2768,51 @@
                             > </pc>vañjula<pc> </pc>tālīsa<pc> </pc>śṛṅgāṭaka<pc
                             > </pc>kaloḍya<pc> </pc>gaurī<pc> </pc>śaivala<pc
                             > </pc>padma<pc> </pc>prabhṛtibhir vvā dhānyāmlapiṣṭaḥ pradeho
+<<<<<<< HEAD
+                        ghṛtamiśraḥ ||<anchor n="SS.4.5.8-n-1"/></l>
+=======
                         ghṛtamiśraḥ ||<anchor n="SS.4.5.8-n-1"/>
                     </l>
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <ab corresp="#SS.4.5.8" type="apparatus">
                         <list type="Emendation">
                             <item xml:lang="en" corresp="#SS.4.5.8-n1">We emend witness
+<<<<<<< HEAD
+                                H's <foreign>kālodyā</foreign> to the
+                                attested lexeme <foreign>kaloḍya</foreign>.</item>
+=======
                                 H's <foreign>kālodyā</foreign> to the attested lexeme
                                     <foreign>kaloḍya</foreign>.</item>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         </list>
                     </ab>
 
                     <l xml:id="SS.4.5.9">
                         <label xml:lang="en">cf. 1938 ed. 4.5.9</label>
                         <caesura/>
+<<<<<<< HEAD
+                         raktaprabale py evaṃ bahuśaś ca śoṇitam avasecayet || </l>
+=======
                          raktaprabale 'py evaṃ bahuśaś ca śoṇitam avasecayet || </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.4.5.10">
                         <label xml:lang="en">cf. 1938 ed. 4.5.10</label>
                         <caesura/>
                          śleṣmaprabale tv āmalakaharidrākaṣāyam madhumadhuram pāyayet |
                         triphalākaṣāyaṃ vā | madhukaśṛṅgaveraharītakītiktarohiṇīkalkam vā
+<<<<<<< HEAD
+                        | sakṣaudramūtreṇa toyena harītakīm vā pāyayet |
+                        tailamūtrakṣārodakasurāsuktaiś ca pariṣekaḥ | āragvadhādikaṣāyeṇa
+                        vā mastumūtrasurāśuktāmadhukaśārivāpadmakasiddhe vā
+                        sarppiṣābhyaṅgaḥ | śvetasarṣṣapakalkaḥ | tilāśvagandhākalkaḥ |
+                        dāruśelukapitthakalkaḥ | madhuśigrupunarnnavakalkaḥ |
+                        vyoṣatiktāpṛthakparṇṇībṛhatīkalkair vvā | evam ete pañca pradehāḥ
+                        kṣārodakapiṣṭāḥ | vyākhyātāḥ ||</l>
+=======
                         sakṣaudram | mūtreṇa toyena harītakīm vā pāyayet |
                         tailamūtrakṣārodakasurāśuktaiś ca pariṣekaḥ | āragvadhādikaṣāyeṇa
                         vā | mastu<pc> </pc>mūtra<pc> </pc>surā<pc> </pc>śuktā<pc
@@ -2781,15 +2831,31 @@
                                 in this line, but it is unclear which.</item>
                         </list>
                     </ab>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.4.5.11">
                         <label xml:lang="en">cf. 1938 ed. 4.5.11</label>
                         <caesura/>
+<<<<<<< HEAD
+                         saṃsargge sannipāte ca kriyāpathamuktaṃ miśraṃ kuryād iti | </l>
+=======
                          saṃsargge sannipāte ca kriyāpatham uktaṃ miśraṃ kuryād iti | </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
                     <l xml:id="SS.4.5.12">
                         <label xml:lang="en">cf. 1938 ed. 4.5.12</label>
                         <caesura/>
+<<<<<<< HEAD
+                         sarvveṣu ca guḍaharītakīm āseveta | pippalyo vā kṣīrapiṣṭāḥ |
+                        pañcābhivṛddhyā pibet kṣīrodanāhāro daśarātraṃ | pañcābhivṛddhyā
+                        bhūyañ cāpakarṣayet | evam eva yāvatyañ ceti | tad etat
+                        pippalīvarddhamānakam ācakṣate || etad dhi
+                        vātaśoṇitaviṣamajvarārocakapāṇḍurogodarārśaḥśvāsakāsaśoṣāgnisādahṛdrogān
+                        upahanti | pradehaḥ
+                        sahācandanamūrvvāpiyālaśatāvarīkaśerukāsahadevāpadmakamadhukaśatapuṣpākuṣṭhāyavāgūpāṭhaḥ
+                        |ni śailepakāṭarūṣakabalātibalājīvantīkalko vā kṣīrayuktaḥ |
+                        kāśmaryamadhukatarppaṇakalko vā ghṛtamaṇḍayuktaḥ |
+=======
                          sarvveṣu ca guḍaharītakīm āseveta | pippalīr vā kṣīrapiṣṭāḥ
                         pañcābhivṛddhyā pibet kṣīrodanāhāro daśarātraṃ | pañcābhivṛddhyā
                         bhūyaś cāpakarṣayet | evam eva yāvat pañceti | tad etat
@@ -2799,6 +2865,7 @@
                         sahācandanamūrvvāpiyālaśatāvarīkaśerukāsahadevāpadmakamadhukaśatapuṣpākuṣṭhāni
                         śailepakāṭarūṣakabalātibalājīvantīkalko vā
                         kṣīrayuktaḥ | kāśmaryamadhukatarppaṇakalko vā ghṛtamaṇḍayuktaḥ |
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         madhūcchiṣṭaśārivāsarjjarasamadhukamadhuravarggakṣīrasiddham vā
                         piśutailam iti ||
                         purāṇaghṛtamāmalakasaralavipakvaśarkkarāmadhumadhuraṃm pānārthe |
@@ -3036,8 +3103,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="6" type="adhyāya">
@@ -3571,8 +3641,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div corresp="4.8. in NAK 5-333" n="8" type="adhyāya">
@@ -3977,8 +4050,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="9" type="adhyāya">
@@ -4408,8 +4484,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="10" type="adhyāya">
@@ -4571,8 +4650,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="11" type="adhyāya">
@@ -4704,8 +4786,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="12" type="adhyāya">
@@ -4846,8 +4931,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="13" type="adhyāya">
@@ -5099,8 +5187,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="14" type="adhyāya">
@@ -5317,8 +5408,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="15" type="adhyāya">
@@ -5635,8 +5729,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="16" type="adhyāya">
@@ -6567,8 +6664,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="19" type="adhyāya">
@@ -6989,8 +7089,11 @@
 
 
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
                 <div n="20" type="adhyāya">

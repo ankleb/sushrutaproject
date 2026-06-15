@@ -1098,7 +1098,11 @@ C) Special notes :
                         āhāranimittāc ca parivṛddhi<lb n="5"/>r bbhavati || </l>
 
                     <l xml:id="SS.3.4.60"> bhavati cātra || dṛṣṭiś ca romakūpāś ca
+<<<<<<< HEAD
+                        vardhante na <cb/> kadācana | dhruvāṇy etāni marttyānām iti
+=======
                         varddhante na <cb/> kadācana | dhruvāṇy etāni marttyānām iti
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         dhanvantarer mmataṃ || </l>
 
                     <l xml:id="SS.3.4.61"> śarīre kṣīyamāṇe pi varddhate<g
@@ -1116,6 +1120,15 @@ C) Special notes :
                             ref="#newa-placeholder-mark"/></l>
 
                     <l xml:id="SS.3.4.64">
+<<<<<<< HEAD
+                        <lb n="2"/> tatra vāta prakṛtijāgarūkaḥ śītadveṣī
+                        durbbhagastenonā<cb/>ryo mastarogāndharvvaḥ | sphuṭitakaracaraṇau
+                        rūkṣālpakeśaḥ smaśruḥ kaṭhimakrodhī dantakhādī a<g
+                            ref="#broken-danda"/><lb n="3"/>lpavalo 'lpāyuś ca bhavati || </l>
+
+                    <l xml:id="SS.3.4.65"> bhavati cātra || adhṛtiradṛ<cb/>ḍhāsauhṛdayaḥ
+                        kṛtaghnaḥ kṛṣaparuṣo dhamanītataḥ pralāpī | drutagatiraṭano
+=======
                         <lb n="2"/> tatra vāta prakṛti jāgarūkaḥ śītadveṣī
                         durbbhagasteno nā<cb/>ryo mastaro gāndharvvaḥ | sphuṭitacaraṇau
                         rūkṣālpakeśasmaśruḥ kaṭhinakrodhī dantakhādī a<g
@@ -1123,36 +1136,61 @@ C) Special notes :
 
                     <l xml:id="SS.3.4.65"> bhavati cātra || adhṛtir adṛ<cb/>ḍhāsauhṛdayaḥ
                         kṛtaghnaḥ kṛṣaparuṣo dhamanītataḥ pralāpī | drutagatir aṭano
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                             navasthitā<g ref="#broken-danda"/><lb n="4"/>tmā nabhasi ca
                         gacchati saṃbhrameṇa suptaḥ || </l>
 
                     <l xml:id="SS.3.4.66"> avyavasthita<cb/>matiś calacitto
                         mandadantadhanasañcayamitraḥ || kiñ cid eva vilapaty anivaddhaṃ
+<<<<<<< HEAD
+                            mārutaprakṛ<lb n="5"/>tireṣa manuṣyaḥ || </l>
+=======
                             mārutaprakṛ<lb n="5"/>tir eṣa manuṣyaḥ || </l>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
 
 
                     <l xml:id="SS.3.4.68"> pittaprakṛtis tu svedanaḥ śītasaho<cb/>
+<<<<<<< HEAD
+                        durggandhī pītaḥ kālo vā |
+                        śithilāṅgastāmranakhanayanatālujihvauṣṭapādapāṇitalo du<lb n="6"
+                        />rbbhago valīpalito sṛṣṭo vahubhuguṣṇadveṣī
+                        kṣiprakrodhaprasādaśīlo madhyamāyuś ca bhavati || </l>
+
+                    <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir nnigṛhya
+                        vaktā tejasvī samiti<pb n="172r" facs="175"/><g
+=======
                         durggandhī pītaḥ kālo vā 
                         śithilāṅgas tāmranakhanayanatālujihvauṣṭhapādapāṇitalo du<lb n="6"
                         />rbbhago valīpalito sṛṣṭo vahubhug uṣṇadveṣī
                         kṣiprakrodhaprasādaśīlo madhyamāyuś ca bhavati || </l>
 
                     <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir nnigṛhyavaktā tejasvī samiti<pb n="172r" facs="175"/><g
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                             ref="#newa-placeholder-mark"/>ṣu durnnivāravīryaḥ | suptaḥ saṃ
                         kanakapalāśakarṇṇikārāṃ saṃpaśyed api ca hutāśavidyudulkāṃ || </l>
 
                     <l xml:id="SS.3.4.70"> na bhayāt praṇamet praṇateṣu mṛduḥ praṇa<g
+<<<<<<< HEAD
+                            ref="#broken-danda"/><lb n="2"/>teṣu ca sāṃvanadānaruciḥ |
+=======
                             ref="#broken-danda"/><lb n="2"/>teṣu ca sāṃtvanadānaruciḥ |
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         bhavatīha sadā vyathitāsyagati<cb/>ḥ sa bhaved iha
                         pittakṛtaprakṛtiḥ || </l>
 
 
 
                     <l xml:id="SS.3.4.72"> śleṣmaprakṛtis tu
+<<<<<<< HEAD
+                            dūrvvedīsvaranistriṃśārddrāriṣṭakaśarakā<lb n="3"/>ṇḍānām
+                        anyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ | <cb/> kṛtajño
+                        dhṛtimān sahiṣṇur alolupo valavāṃściragrāhī dṛḍhavairodīrghāyuś ca
+=======
                             durvvedīsvaranistriṃśārddrāriṣṭakaśarakā<lb n="3"/>ṇḍānām
                         anyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ | <cb/> kṛtajño
                         dhṛtimān sahiṣṇur alolupo valavāṃś ciragrāhī dṛḍhavairo dīrghāyuś ca
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         bhavati || </l>
 
                     <l xml:id="SS.3.4.73"> snighdāṅgaḥ sthirasuvibhaktacārugātro
@@ -2693,7 +2731,11 @@ Half part of 57 found after 64-->
                         ātmanyeva na dhātryāḥ ||</l>
 
 
+<<<<<<< HEAD
+                    <l xml:id="SS.3.10.44">vālā<cb/>nāṃ gudapākeṣu pittaghnīṃ kārayet
+=======
                     <l xml:id="SS.3.10.44">bhavati cātra || vālā<cb/>nāṃ gudapākeṣu pittaghnīṃ kārayet
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         kriyāṃ |
                         <caesura/>
                          rasāñjanam viśeṣeṇa pānālepanayo<lb n="5"/>rhitaṃ ||</l>
@@ -2876,6 +2918,11 @@ Half part of 57 found after 64-->
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ || ❈ || </l>
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                 </div>
 
 

@@ -1,5 +1,12 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <script src="./lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"/><teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+=======
 <?xml-stylesheet type="text/xsl" href="tei-to-html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"/><teiHeader>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
     <fileDesc>
       <titleStmt>
         <title>Printed edition: Ācārya 1938: Uttaratantra, 27-37</title>

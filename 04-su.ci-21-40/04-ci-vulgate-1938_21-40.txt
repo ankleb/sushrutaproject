@@ -2026,7 +2026,11 @@
                         saptadaśāṣṭādaśayor divasayor daśanā jāyante śikhariṇaḥ
                         snigdhavajravaidūryasphaṭikaprakāśāḥ samāḥ sthirāḥ sahiṣṇavaḥ,
                         tadā prabhṛti cānavaiḥ śālitaṇḍulaiḥ kṣīrayavāgūm upaseveta yāvat
+<<<<<<< HEAD
+                        pañcaviṃśatiriti; tato 'smai dadyāc chālyodanaṃ mṛdūbhayakālaṃ
+=======
                         pañcaviṃśatir iti; tato 'smai dadyāc chālyodanaṃ mṛdūbhayakālaṃ
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         payasā, tato 'sya nakhā jāyante vidrumendragopakataruṇādity
                         aprakāśāḥ, sthirāḥ snigdhā lakṣaṇasaṃpannāḥ keśāś ca sūkṣmā
                         jāyante, tvak ca nīlotpalātasīpuṣpavaidūryaprakāśā; ūrdhvaṃ ca
@@ -3192,10 +3196,17 @@
                         <caesura/>
                          vayobalaśarīrāṇi samīkṣyotkarṣayed vidhim || </l>
 
+<<<<<<< HEAD
+                    <l xml:id="SS.4.35.9"> pañcaviṃśaterūrdhvaṃ dvādaśāṅgulaṃ, mūle
+                        'ṅguṣṭhodaraparīṇāham, agre kaniṣṭhikodaraparīṇāham, agre
+                        tryaṅgulasanniviṣṭakarṇikaṃ, gṛdhrapakṣanāḍīṃtulyapraveśaṃ,
+                        kolāsthimātrachidraṃ, klinnakalāyamātrachidramity eke; sarvāṇi
+=======
                     <l xml:id="SS.4.35.9"> pañcaviṃśater ūrdhvaṃ dvādaśāṅgulaṃ, mūle
                         'ṅguṣṭhodaraparīṇāham, agre kaniṣṭhikodaraparīṇāham, agre
                         tryaṅgulasanniviṣṭakarṇikaṃ, gṛdhrapakṣa<pc> </pc>nāḍītulyapraveśaṃ,
                         kolāsthimātrachidraṃ, klinnakalāyamātrachidram ity eke; sarvāṇi
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         mūle bastinibandhanārthaṃ dvikarṇikāni | āsthāpanadravyapraṇāṇaṃ
                         tu vihitaṃ dvādaśaprasṛtāḥ |<pb facs="610" n="529a"/> saptates
                         tūrdhvaṃ netrapramāṇam etad eva, dravyapramāṇaṃ tu
