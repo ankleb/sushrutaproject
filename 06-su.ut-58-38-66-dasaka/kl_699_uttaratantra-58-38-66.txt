@@ -2034,9 +2034,9 @@ iii) 19ef is placed after 18ab     -->
                          varjjayed vamanādīni ka<unclear>rm</unclear>āṇy api ca kārayet | </l>
 
                     <l xml:id="SS.6.64.34"> ṣaṣṭikā<unclear reason="damaged"
-                        >na</unclear>navāñ chālīn nī<lb n="3"/>vārān mudga kodravān |
+                        >n a</unclear>navāñ chālīn nī<lb n="3"/>vārān mudgakodravān |
                         <caesura/>
-                         lāvādiviṣkirarasaiś cādyādyūṣañ ca yuktibhiḥ | </l>
+                         lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ | </l>
 
                     <l xml:id="SS.6.64.35">
                         pa<unclear>ṭo</unclear>lanimbavetrāgrati<cb/>ktaiś cānyair
