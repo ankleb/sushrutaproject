@@ -1072,9 +1072,9 @@
                         <caesura/>
                          viśliṣṭadehaṃ patitaṃ mathitaṃ hatam eva ca || </l>
 
-                    <l xml:id="SS.4.2.78"> vāsayettailapūrṇāyāṃ droṇyāṃ māṃsarasāśanam |
+                    <l xml:id="SS.4.2.78"> vāsayet tailapūrṇāyāṃ droṇyāṃ māṃsarasāśanam |
                         <caesura/>
-                         ayameva vidhiḥ kāryaḥ kṣīṇe marmahate tathā || </l>
+                         ayam eva vidhiḥ kāryaḥ kṣīṇe marmahate tathā || </l>
 
                     <l xml:id="SS.4.2.79"> ropaṇe saparīṣeke pāne ca vraṇināṃ sadā |
                         <caesura/>

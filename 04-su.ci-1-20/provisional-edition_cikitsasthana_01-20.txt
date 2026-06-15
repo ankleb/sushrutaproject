@@ -1612,19 +1612,20 @@
 
                     <!-- verses from here to end of 2 depend on H -->
 
-                    <l xml:id="SS.4.2.78">
+                   <l xml:id="SS.4.2.78"> 
                         <label xml:lang="en">1938 ed. 4.2.78</label>
+                           <caesura/>
                          vāsayet tailapūrṇṇāyāṃ droṇyāṃ māṃsarasāśanaṃ ||<anchor
-                            n="SS.4.2.78-n-1"/>
+                            n="SS.4.2.78-n1"/>
                         <caesura/>
                          eṣa eva vidhiḥ kāryaḥ kṣīṇe marmmahate tathā | </l>
-
                     <ab corresp="#SS.4.2.78" type="apparatus">
                         <list type="Note">
                             <item xml:lang="en" corresp="#SS.4.2.78-n1">MS K breaks off at
                                 this point and resumes at 4.19.22.</item>
                         </list>
                     </ab>
+            
 
                     <l xml:id="SS.4.2.79">
                         <label xml:lang="en">1938 ed. 4.2.79</label>
@@ -7300,4 +7301,8 @@
             </div>
         </body>
     </text>
+   <!-- <standOff type="notes1" corresp="#SS.4.2.78">
+          <note xml:lang="en" target="SS.4.2.78-n1">MS K breaks off at
+                this point and resumes at 4.19.22.</note>
+    </standOff>-->
 </TEI>
