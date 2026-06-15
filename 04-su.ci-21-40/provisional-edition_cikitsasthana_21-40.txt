@@ -4173,8 +4173,13 @@
                     <l xml:id="SS.4.35.9">
                         <label xml:lang="en">cf. 1938 ed. 4.35.9</label>
                         <caesura/>
+<<<<<<< HEAD
                          pañcaviṃśativarṣādūrddhvan dvādaśāṅgulalapramāṇam aṃguṣṭhodarapariṇāham
                         agre tryaṅgulasanniviṣṭakarṇṇikaṃ gṛdhra patranāḍītulyapraveśaṃ
+=======
+                         pañcaviṃśativarṣād ūrddhvan dvādaśāṅgulapramāṇam aṅguṣṭhodarapariṇāham
+                        agre tryaṅgulasanniviṣṭakarṇṇikaṃ gṛdhrapatra<pc> </pc>nāḍītulyapraveśaṃ
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
                         kolāsthimātraṃ cchidraṃ klinnakalāyamātracchidram ity eke ||
                         āsthāpanamātrapramāṇaṃ dvādaśaprasṛtā iti | saptasaptyānyās tu
                         ūrddhannetrapramāṇam etad eva | āsthāpanamātrāpramāṇan tu dviraṣṭavarṣavad

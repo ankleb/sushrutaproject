@@ -11720,6 +11720,7 @@ iii) 19ef is placed after 18ab     -->
   </text>
 
   <facsimile>
+<<<<<<< HEAD
     <graphic url="https://wujastyk.github.io/sushrutaproject/kl_699_manifest.json"/>
   </facsimile>
 
@@ -11822,4 +11823,10 @@ iii) 19ef is placed after 18ab     -->
 
   </facsimile>
 -->
+=======
+		<graphic url="https://iiif.archive.org/iiif/699-updated-filenames/manifest.json"/>
+  </facsimile>
+
+
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 </TEI>

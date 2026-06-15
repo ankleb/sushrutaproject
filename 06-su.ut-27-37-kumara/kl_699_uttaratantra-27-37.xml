@@ -1,9 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<<<<<<< HEAD
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
-=======
-  <teiHeader>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
     <fileDesc>
       <titleStmt>
         <title>MS Kathmandu KL 699: Uttaratantra, 31-44</title>
@@ -44,12 +40,8 @@
           <physDesc>
             <objectDesc form="pothi">
               <!-- @form can be "pothi", "book", scroll", etc. -->
-<<<<<<< HEAD
               <supportDesc material="palm-leaf"
                 ><!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. --><!-- the following <foliation> tags are examples --></supportDesc>
-=======
-              <supportDesc material="palm-leaf"><!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. --><!-- the following <foliation> tags are examples --></supportDesc>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             </objectDesc>
             <scriptDesc>
               <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign> and
@@ -172,12 +164,8 @@
 
           <pb facs="190" ana="IMG_0045.JPG" n="174v, line 2"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.27.1"><cb n="2"/> athāto navagrahavijñānīyam adhyāyaṃ <abbr
               type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
-=======
-          <l xml:id="SS.6.27.1"><cb n="2"/> athāto navagrahavijñānīyam adhyāyaṃ <abbr type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
 
 
@@ -227,12 +215,8 @@
             <cb n="2"/> raktāsyo haritamalobhipāṇḍudehaḥ śyāvo vā
             jvaramukhapākavedanārttaḥ |
             <caesura/>
-<<<<<<< HEAD
              mṛdrīte vyāthitatanuś ca karṇanāsāṃ revatyā bhṛśamatipīḍitaḥ ku<cb n="3"
             />māraḥ || </l>
-=======
-             mṛdrīte vyāthitatanuś ca karṇanāsāṃ revatyā bhṛśamatipīḍitaḥ ku<cb n="3"/>māraḥ || </l>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
           <l xml:id="SS.6.27.12"> srastāṅgaḥ svapiti sukhaṃ di<unclear/> na rātrau
             vi<unclear/>nnāṃ sṛjati ca kākatulyagandhiḥ |
@@ -240,12 +224,8 @@
              chardyārto hṛṣitata<lb n="6"/>nūruhaḥ kumāras tṛṣṇālur bhavati ca
             pūtanāgṛhītaḥ || </l>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.27.13"> yo dveṣṭi stanam atisārakāsahikkāc charddirvā <cb n="2"
             /> jvarasahitābhir ardyamānaḥ |
-=======
-          <l xml:id="SS.6.27.13"> yo dveṣṭi stanam atisārakāsahikkāc charddirvā <cb n="2"/> jvarasahitābhir ardyamānaḥ |
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <caesura/>
              durvarṇāḥ satatam athāpi cāmlagandhītaṃ <unclear/>yād upahatamandhapūtanāyāḥ
             | </l>
@@ -258,22 +238,14 @@
           <l xml:id="SS.6.27.15">
             <lb n="7"/> mlānāṅgaḥ surucirapāṇipādavakro vahvāśī kaluṣasirāvṛtodaro yaḥ |
             <caesura/>
-<<<<<<< HEAD
              saṃsṛṣṭaḥ śiśurathavakrumaṇḍikāyāḥ sodvego bhavati ca vastumū<cb n="3"
             />tragandhaḥ || </l>
-=======
-             saṃsṛṣṭaḥ śiśurathavakrumaṇḍikāyāḥ sodvego bhavati ca vastumū<cb n="3"/>tragandhaḥ || </l>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
           <l xml:id="SS.6.27.16"> yaḥ phenām vamati vināmyate ca madhye sodvego vihasati
             cordhvamīkṣamānaḥ |
             <caesura/>
-<<<<<<< HEAD
              jvaryec ca pratatamatho <milestone facs="175r IMG_0051.JPG" n="175r"
               unit="digital-image"/><pb facs="191" n="175r"/><lb n="1"/>vasāśragandhī
-=======
-             jvaryec ca pratatamatho <milestone facs="175r IMG_0051.JPG" n="175r" unit="digital-image"/><pb facs="191" n="175r"/><lb n="1"/>vasāśragandhī
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             sajñeyo bhavati hi naigameṣadaṣṭaḥ || </l>
 
           <l xml:id="SS.6.27.17"> dhātrīstanadvidviṣṭava āviṣṭo muhyate muhuḥ |
@@ -309,12 +281,8 @@
 
 
 
-<<<<<<< HEAD
           <l xml:id="SS.6.28.1"> athātaḥ <cb n="3"/> skandagrahapratiṣedham adhyāyaṃ <abbr
               type="suspension">vyā</abbr>
-=======
-          <l xml:id="SS.6.28.1"> athātaḥ <cb n="3"/> skandagrahapratiṣedham adhyāyaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
@@ -382,12 +350,8 @@
 
 
 
-<<<<<<< HEAD
           <l xml:id="SS.6.29.1"> athātaḥ skandopasmārapratiṣedham adhyāyaṃ <abbr
               type="suspension">vyā</abbr>
-=======
-          <l xml:id="SS.6.29.1"> athātaḥ skandopasmārapratiṣedham adhyāyaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
@@ -418,12 +382,8 @@
 
           <l xml:id="SS.6.29.8"> bhūtodano nivedyaś ca skandāpasmāraṇo vato |
             <caesura/>
-<<<<<<< HEAD
              catuṣpathe ca kartavyāḥ <milestone facs="175v IMG_0052.JPG" n="175v"
               unit="digital-image"/><pb facs="192" n="175v"/><lb n="1"/>snānam asya
-=======
-             catuṣpathe ca kartavyāḥ <milestone facs="175v IMG_0052.JPG" n="175v" unit="digital-image"/><pb facs="192" n="175v"/><lb n="1"/>snānam asya
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             yatātmanā </l>
 
           <l xml:id="SS.6.29.9"> skandāpasmārasaṃjño yaḥ skandasya dayitaḥ sakhā |
@@ -440,12 +400,8 @@
           <milestone ana="line 1" facs="175v IMG_0052.JPG" n="175v" unit="folio"/>
 
 
-<<<<<<< HEAD
           <l xml:id="SS.6.30.1"> athātaḥ śakunīpratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr>
-=======
-          <l xml:id="SS.6.30.1"> athātaḥ śakunīpratiṣedhaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
@@ -506,12 +462,8 @@
 
           <milestone facs="175vIMG_0052.JPG" n="175v3" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.31.1"> athāto revatīpratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
-=======
-          <l xml:id="SS.6.31.1"> athāto revatīpratiṣedhaṃ <abbr type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
 
           <l xml:id="SS.6.31.3"> aśvagandhā ja śṛṅgī ca śārivātha
               <unclear>purnarnnavā</unclear> |
@@ -557,12 +509,8 @@
 
           <milestone ana="line 5" facs="175v IMG_0052.JPG" n="175v" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.32.1"> athātaḥ pūtanāpratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr>
-=======
-          <l xml:id="SS.6.32.1"> athātaḥ pūtanāpratiṣedhaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
           <l xml:id="SS.6.32.3"> kapotavaṃkāharalaḥ<lb n="6"/> varuṇaḥ pāribhadrakaḥ |
@@ -601,7 +549,6 @@
         <div n="33" type="adhyāya">
           <milestone ana="line 7" facs="175v IMG_0052.JPG" n="175v" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.33.1"> athātāndhapūtanāpratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr>
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
@@ -609,13 +556,6 @@
           <l xml:id="SS.6.33.3">
             <milestone facs="176r IMG_0041.JPG" n="176r" unit="digital-image"/><pb
               facs="193" n="176r"/><lb n="1"/>tiktakadrumāṇāṃ patraiś ca kvāthaḥ kāryo
-=======
-          <l xml:id="SS.6.33.1"> athātāndhapūtanāpratiṣedhaṃ <abbr type="suspension">vyā</abbr>
-            <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
-
-          <l xml:id="SS.6.33.3">
-            <milestone facs="176r IMG_0041.JPG" n="176r" unit="digital-image"/><pb facs="193" n="176r"/><lb n="1"/>tiktakadrumāṇāṃ patraiś ca kvāthaḥ kāryo
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
               va<cb n="2"/>secane |
             <caesura/>
              surā sauvīrakañ kuṣṭhaṃ haritālam manaḥ śilā | </l>
@@ -649,12 +589,8 @@
 
           <milestone ana="line 2" facs="176r IMG_0041.JPG" n="176r" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.34.1"> athātaḥ śītapūtanā<lb n="3"/>pratiṣedhaṃ <abbr
               type="suspension">vyā</abbr>
-=======
-          <l xml:id="SS.6.34.1"> athātaḥ śītapūtanā<lb n="3"/>pratiṣedhaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
           <l xml:id="SS.6.34.3"> viṃvīkāpitthaṃ sūrasaṃ tathā vilvapracīvalau |
@@ -690,12 +626,8 @@
 
           <milestone ana="line 4" facs="176r IMG_0041.JPG" n="176r" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.35.1"> athāto muṇḍikāpratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr>
-=======
-          <l xml:id="SS.6.35.1"> athāto muṇḍikāpratiṣedhaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
           <l xml:id="SS.6.35.3"> kapitthavi<lb n="5"/>lvau tarkārīvaṃśagandharvahastaka |
@@ -731,12 +663,8 @@
 
           <milestone ana="line 6" facs="176 rIMG_0041.JPG" n="176r" unit="folio"/>
 
-<<<<<<< HEAD
           <l xml:id="SS.6.36.1"> athāto naigameṣapratiṣedhaṃ <abbr type="suspension"
               >vyā</abbr>
-=======
-          <l xml:id="SS.6.36.1"> athāto naigameṣapratiṣedhaṃ <abbr type="suspension">vyā</abbr>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
 
           <l xml:id="SS.6.36.3"> vilvāgni<lb n="7"/>manthapūtīkāḥ kāśmaryāḥ pariṣecane |
@@ -755,12 +683,8 @@
             <lb n="8"/> sahitāṃ jaṭilāṃ cāpi dhārayet | </l>
 
           <l xml:id="SS.6.36.9"> tilataṇḍulakaṃ mālyaṃ bhakṣāṃś ca vi<cb n="2"/>vidhāni ca
-<<<<<<< HEAD
             | kumārapitṛmeṣāya vṛ<milestone facs="176v IMG_0042.JPG" n="176v"
               unit="digital-image"/><pb facs="194" n="176v"/><lb n="1"/>kṣamūle nivedayet
-=======
-            | kumārapitṛmeṣāya vṛ<milestone facs="176v IMG_0042.JPG" n="176v" unit="digital-image"/><pb facs="194" n="176v"/><lb n="1"/>kṣamūle nivedayet
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
             | </l>
 
           <l xml:id="SS.6.36.10ab"> adhastān kṣīravṛkṣasya snapanañ copadiśyate | </l>
@@ -885,11 +809,7 @@
   </text>
 
   <facsimile>
-<<<<<<< HEAD
-    <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"/>
-=======
 		<graphic url="https://iiif.archive.org/iiif/699-updated-filenames/manifest.json"/>
->>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
   </facsimile>
 
 </TEI>

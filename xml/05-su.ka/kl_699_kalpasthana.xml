@@ -2742,6 +2742,7 @@ Metre Break
     </facsimile>-->
 
     <facsimile>
+<<<<<<< HEAD
         <graphic url="https://wujastyk.github.io/sushrutaproject/kl_699_manifest.json"/>
     </facsimile>
 
@@ -2825,3 +2826,10 @@ Metre Break
     </facsimile>
 -->
 </TEI>
+=======
+		<graphic url="https://iiif.archive.org/iiif/699-updated-filenames/manifest.json"/>
+    </facsimile>
+
+
+</TEI>
+>>>>>>> 4de2d602c5b6e73137cf39113fd85ec30d538f93
