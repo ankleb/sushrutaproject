@@ -2333,11 +2333,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          varjjayed vamanādīni karmmāṇy api ca kārayet || </l>
 
-                    <l xml:id="SS.6.64.34"> ṣaṣṭikānanavāñ chālīn nīvārān mudga kodravān |
+                    <l xml:id="SS.6.64.34"> ṣaṣṭikān anavāñ chālīn nīvārān mudgakodravān |
                         <caesura/>
-                         lāvādiviṣkirarasaiś cādyādyūṣañ ca yuktibhiḥ || </l>
+                         lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ || </l>
 
-                    <l xml:id="SS.6.64.35"> paṭolanimbavetrāgrati<lb n="2"/>kaiś cānyair
+                    <l xml:id="SS.6.64.35"> paṭolanimbavetrāgrati<lb n="2"/>ktaiś cānyair
                         himātyaye |
                         <caesura/>
                         <gap reason="omitted" extent="3" unit="char"/>dhvāsavāriṣṭā

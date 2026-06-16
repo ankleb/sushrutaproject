@@ -1704,11 +1704,11 @@
                     <l xml:id="SS.6.64.34"> ṣaṣṭikānnaṃ yavāñ chītān mudgān nīvārakodravān
                         |
                         <caesura/>
-                         lāvādiviṣkirarasairdadyādyūsaiś ca yuktitaḥ || </l>
+                         lāvādiviṣkirarasair dadyād yūsaiś ca yuktitaḥ || </l>
 
                     <l xml:id="SS.6.64.35"> paṭolanimbavārtākatiktakaiś ca himātyaye |
                         <caesura/>
-                         sevenmadhvāsavāriṣṭān sīdhumādhvīkamādhavān || </l>
+                         seven madhvāsavāriṣṭān sīdhumādhvīkamādhavān || </l>
 
                     <l xml:id="SS.6.64.36"> vyāyāmam añjanaṃ dhūmaṃ tīkṣṇaṃ ca
                         kavalagraham |

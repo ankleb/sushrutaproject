@@ -2039,10 +2039,10 @@ iii) 19ef is placed after 18ab     -->
                          lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ | </l>
 
                     <l xml:id="SS.6.64.35">
-                        pa<unclear>ṭo</unclear>lanimbavetrāgrati<cb/>ktaiś cānyair
+                        paṭolanimbavetrāgrati<cb/>ktaiś cānyair
                         himātyaye |
                         <caesura/>
-                         sevenmadhvāsavāriṣṭāṃ <unclear reason="damaged">sī</unclear>dhuṃ
+                         seven madhvāsavāriṣṭāṃ <unclear reason="damaged">sī</unclear>dhuṃ
                         mādhvīkam eva ca | </l>
 
                     <l xml:id="SS.6.64.36"> vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca
