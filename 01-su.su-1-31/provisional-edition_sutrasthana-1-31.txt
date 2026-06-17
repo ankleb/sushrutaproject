@@ -183,15 +183,7 @@ target="http://sushrutaproject.github.io"/>
                             > </pc>karavīra<pc> </pc>gopurarakṣita<pc
                             > </pc>bhoja<pc> </pc>suśruta<pc> </pc>prabhṛtaya ūcuḥ |</l>
 
-                    <ab corresp="#SS.1.1.3" type="apparatus">
-                        <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.1.1.3-n1">The scribe of the
-                                earliest MS, K, added the name
-                                    <foreign>dhanvantari</foreign> in the margin; the
-                                scribe of N did not have the name; the scribe of H
-                                included it in the text.</item>
-                        </list>
-                    </ab>
+                
 
 
                     <l xml:id="SS.1.1.4">
@@ -7545,4 +7537,13 @@ target="http://sushrutaproject.github.io"/>
             </div>
         </body>
     </text>
+    
+<standOff corresp="#SS.1.1.3" type="Notes">
+                 <note xml:lang="en" target="#SS.1.1.3-n1">The scribe of the
+                earliest MS, K, added the name
+                <foreign>dhanvantari</foreign> in the margin; the
+                scribe of N did not have the name; the scribe of H
+                included it in the text.</note>
+    </standOff> 
 </TEI>
+
