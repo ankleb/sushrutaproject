@@ -2809,7 +2809,7 @@
                     <l xml:id="SS.6.64.36">
                         <label xml:lang="en">cf. 1938 ed. 6.64.36</label>
                         <caesura/>
-                         vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca kavaḍagrahaṃ |
+                         vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca kavaḍagraham |
                         <caesura/>
                          uṣṇāmbunā ca sarvārthān seveta kusumāgame | </l>
 
@@ -2818,14 +2818,14 @@
                     <l xml:id="SS.6.64.37cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.37cd</label>
                         <caesura/>
-                         yavamudgamadhuprāyaṃ vasante bhojanaṃ hitaṃ | </l>
+                         yavamudgamadhuprāyaṃ vasante bhojanaṃ hitam | </l>
 
                     <l xml:id="SS.6.64.38"/>
 
                     <l xml:id="SS.6.64.38.add">
                         <label xml:lang="en">cf. 1938 ed. 6.64.38a</label>
                         <caesura/>
-                         vyāyāmo vyadhikaś cātra sarva eva prasasyate | </l>
+                         vyāyāmo dvyadhikaś cātra sarva eva praśasyate | </l>
 
                     <l xml:id="SS.6.64.39cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39cd</label>
@@ -2835,7 +2835,7 @@
                     <l xml:id="SS.6.64.39ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39ab</label>
                         <caesura/>
-                         nirharedapramattaś ca hemantopacitakaphaṃ | </l>
+                         nirhared apramattaś ca hemantopacitakapham | </l>
 
                     <l xml:id="SS.6.64.39.add1">
                         <label xml:lang="en">6.64.39.add1</label>

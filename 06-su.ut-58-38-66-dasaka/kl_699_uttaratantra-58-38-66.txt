@@ -2055,12 +2055,12 @@ iii) 19ef is placed after 18ab     -->
 
 
                     <l xml:id="SS.6.64.38.add"> vyāyāmo vyadhikaś cātra sarva eva pra<lb
-                            n="4"/>sasyate | </l>
+                            n="4"/>śasyate | </l>
 
                     <l xml:id="SS.6.64.39cd"> śirovirekair vamanaiḥ kaṣāyaiḥ kavaḍagrahaiḥ
                         | </l>
 
-                    <l xml:id="SS.6.64.39ab"> nirharedapramattaś ca
+                    <l xml:id="SS.6.64.39ab"> nirhared apramattaś ca
                         hemantopacita<cb/>kaphaṃ | </l>
 
                     <l xml:id="SS.6.64.39.add1"> śuciḥ śuklāmbaradharaś
