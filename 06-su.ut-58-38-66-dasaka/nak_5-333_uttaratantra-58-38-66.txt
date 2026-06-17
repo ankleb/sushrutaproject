@@ -2362,7 +2362,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             reason="omitted" extent="1" unit="pāda"/> kaṣāyaiḥ
                         kavaḍagrahaiḥ | </l>
 
-                    <l xml:id="SS.6.64.39ab"> nirharedapramattaś ca<lb n="4"/> hemante
+                    <l xml:id="SS.6.64.39ab"> nirhared apramattaś ca<lb n="4"/> hemante
                         pacitaṅ kaphaṃ | </l>
 
                     <l xml:id="SS.6.64.39.add1"> śuciḥ <gap reason="omitted" extent="6"
