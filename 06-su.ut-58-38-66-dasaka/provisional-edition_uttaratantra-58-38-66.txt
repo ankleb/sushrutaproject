@@ -2835,7 +2835,7 @@
                     <l xml:id="SS.6.64.39ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39ab</label>
                         <caesura/>
-                         nirhared apramattaś ca hemantopacitakapham | </l>
+                         nirhared apramattaś ca hemantopacitaṃ kapham | </l>
 
                     <l xml:id="SS.6.64.39.add1">
                         <label xml:lang="en">6.64.39.add1</label>
