@@ -2835,7 +2835,7 @@
                     <l xml:id="SS.6.64.39ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39ab</label>
                         <caesura/>
-                         nirhared apramattaś ca hemantopacitakapham | </l>
+                         nirhared apramattaś ca hemantopacitaṃ kapham | </l>
 
                     <l xml:id="SS.6.64.39.add1">
                         <label xml:lang="en">6.64.39.add1</label>
@@ -2844,23 +2844,37 @@
                     <l xml:id="SS.6.64.39.add2">
                         <label xml:lang="en">6.64.39.add2</label>
                         <caesura/>
-                         pīnastanorujaṃ ghānāṃ rūpayauvaśālinīṃ | </l>
+                        pīnastanorujaghanāṃ rūpayauvanaśālinīm | <anchor
+                            n="SS.6.64.39.add2"/>
+                    </l>
+                    <ab corresp="#SS.6.64.39.add2" type="apparatus">
+                        <list type="Testimonia">
+                            <item xml:lang="en" corresp="#SS.6.64.39.add2">The reading of K
+                                <foreign>°jaṃghanāṃ</foreign>, which is unmetrical, has been emended
+                                to <foreign>°jaghanāṃ</foreign>, which yields a better sense and
+                                restores the metre to a
+                                <foreign>na-vipulā</foreign>. Cf.<foreign>Suśrutasaṃhita</foreign>
+                                6.47.63: [...] <foreign>ukūlāḥ pīnastanorujaghanā
+                                    haricandanāṅgyaḥ</foreign>|| </item>
+                        </list>
+                    </ab>
+                    
                     <l xml:id="SS.6.64.39.add3">
                         <label xml:lang="en">6.64.39.add3</label>
                         <caesura/>
-                         kānaneṣu vicitreṣu sarvālaṅkārabhūṣitāṃ | </l>
+                         kānaneṣu vicitreṣu sarvālaṅkārabhūṣitām | </l>
                     <l xml:id="SS.6.64.39.add4">
                         <label xml:lang="en">6.64.39.add4</label>
                         <caesura/>
-                         romayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
+                         rāmayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
                     <l xml:id="SS.6.64.39.add5">
                         <label xml:lang="en">6.64.39.add5</label>
                         <caesura/>
-                         tataś candrakarālokāṃ pradoṣaṃ sat suhṛjjanaḥ | </l>
+                         tataś candrakarālokaṃ pradoṣaṃ satsuhṛjjanaḥ | </l>
                     <l xml:id="SS.6.64.39.add6">
                         <label xml:lang="en">6.64.39.add6</label>
                         <caesura/>
-                         saṃseved athavā liṅgya śvapet kāntāṅgṛhodare || </l>
+                         saṃseved athavāliṅgya svapet kāntāṅ gṛhodare || </l>
                     <l xml:id="SS.6.64.39.add7">
                         <label xml:lang="en">6.64.39.add7</label>
                         <caesura/>

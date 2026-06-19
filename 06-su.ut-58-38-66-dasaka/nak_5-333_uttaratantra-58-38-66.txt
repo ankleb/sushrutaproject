@@ -2370,12 +2370,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.39.add2"> pīnastanorujaṃghānā rūpayauvanaśālinīṃ || </l>
                     <l xml:id="SS.6.64.39.add3"> kānaneṣu vicitreṣu sarvvālaṅkārabhū<lb n="5"
                     />ṣitāṃ | </l>
-                    <l xml:id="SS.6.64.39.add4"> romayed yāvad ut<unclear>sā</unclear>haṃ
+                    <l xml:id="SS.6.64.39.add4"> rāmayed yāvad ut<unclear>sā</unclear>haṃ
                         sumanāḥ kusumāgame || </l>
-                    <l xml:id="SS.6.64.39.add5"> tataś ca<cb/>ndrakarālokān pradoṣaṃ sat
-                        suhṛjjanaḥ | </l>
-                    <l xml:id="SS.6.64.39.add6"> saṃseved athavā liṅgya svapet
-                        kāntā<unclear>ṅgṛho</unclear>dare || <g
+                    <l xml:id="SS.6.64.39.add5"> tataś ca<cb/>ndrakarālokān pradoṣaṃ satsuhṛjjanaḥ | </l>
+                    <l xml:id="SS.6.64.39.add6"> saṃseved athavāliṅgya svapet
+                        kāntā<unclear>ṅ gṛho</unclear>dare || <g
                             ref="#newa-old-gap-filler"/><lb n="6"/>
                     </l>
                     <l xml:id="SS.6.64.39.add7"> ādadānaḥ karair grīṣme jagatsnehaṃ<gap

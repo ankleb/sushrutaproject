@@ -2065,14 +2065,14 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.39.add1"> śuciḥ śuklāmbaradharaś
                         candanāguru<unclear>bhū</unclear>ṣitaḥ | </l>
-                    <l xml:id="SS.6.64.39.add2"> pīnastanorujaṃ ghānāṃ rūpayauvaśālinīṃ | </l>
+                    <l xml:id="SS.6.64.39.add2"> pīnastanorujaṃghanāṃ rūpayauvaśālinīṃ | </l>
                     <l xml:id="SS.6.64.39.add3"> kānaneṣu vicitreṣu sarvālaṅkārabhū<cb/>ṣitāṃ
                         | </l>
-                    <l xml:id="SS.6.64.39.add4"> romayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
-                    <l xml:id="SS.6.64.39.add5"> tataś candrakarālokāṃ pradoṣaṃ sat suhṛjjanaḥ
+                    <l xml:id="SS.6.64.39.add4"> rāmayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
+                    <l xml:id="SS.6.64.39.add5"> tataś candrakarālokāṃ pradoṣaṃ satsuhṛjjanaḥ
                         | </l>
-                    <l xml:id="SS.6.64.39.add6"> saṃ<lb n="5"/>seved athavā liṅgya śvapet
-                        kāntā<unclear>ṅgṛho</unclear>dare || </l>
+                    <l xml:id="SS.6.64.39.add6"> saṃ<lb n="5"/>seved athavāliṅgya svapet
+                        kāntā<unclear>ṅ gṛho</unclear>dare || </l>
                     <l xml:id="SS.6.64.39.add7"> ādadānaḥ karair grīṣme jagatsnehan
                         divāka<cb/>raḥ </l>
                     <l xml:id="SS.6.64.39.add8"> yauvanotsavanibhargnavanitāyām iva
