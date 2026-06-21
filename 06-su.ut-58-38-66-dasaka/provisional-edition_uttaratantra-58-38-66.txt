@@ -2878,7 +2878,7 @@
                     <l xml:id="SS.6.64.39.add7">
                         <label xml:lang="en">6.64.39.add7</label>
                         <caesura/>
-                         ādadānaḥ karair grīṣme jagatsnehan divākaraḥ </l>
+                         ādadānaḥ karair grīṣme jagatsnehan divākaraḥ | </l>
                     <l xml:id="SS.6.64.39.add8">
                         <label xml:lang="en">6.64.39.add8</label>
                         <caesura/>
@@ -2886,15 +2886,15 @@
                     <l xml:id="SS.6.64.39.add9">
                         <label xml:lang="en">6.64.39.add9</label>
                         <caesura/>
-                         bibhratyāṃ durbhagaṃ rūkṣaṃ reñcaṅgārāruṇaṃ vapuḥ | </l>
+                        bibhratyāṃ durbhagaṃ rūkṣaṃ reṇvaṅgārāruṇaṃ vapuḥ | </l>
                     <l xml:id="SS.6.64.39.add10">
                         <label xml:lang="en">6.64.39.add10</label>
                         <caesura/>
-                         vātacakrasamuddhūtaśuṣkaparṇṇaśvanānvitaḥ | </l>
+                         vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitaḥ | </l>
                     <l xml:id="SS.6.64.39.add11">
                         <label xml:lang="en">6.64.39.add11</label>
                         <caesura/>
-                         raukṣyaṃ sañjanayatyāśus tataḥ śuṣyanti dehinaḥ | </l>
+                         raukṣyaṃ sañjanayaty āśu tataḥ śuṣyanti dehinaḥ | </l>
                     <l xml:id="SS.6.64.39.add12">
                         <label xml:lang="en">6.64.39.add12</label>
                         <caesura/>

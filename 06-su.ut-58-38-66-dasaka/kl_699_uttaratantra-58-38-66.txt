@@ -2078,10 +2078,10 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.39.add8"> yauvanotsavanibhargnavanitāyām iva
                         kṣi<unclear reason="damaged">tau</unclear> | </l>
                     <l xml:id="SS.6.64.39.add9"> bibhratyāṃ durbhagaṃ rūkṣaṃ
-                        re<unclear>ñcaṅgā</unclear>rāruṇaṃ vapuḥ | </l>
-                    <l xml:id="SS.6.64.39.add10"> vātacakrasamuddhūtaśuṣkaparṇṇaśvanānvitaḥ | </l>
+                        reṇvaṅgārāruṇaṃ vapuḥ | </l>
+                    <l xml:id="SS.6.64.39.add10"> vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitaḥ | </l>
                     
-                    <l xml:id="SS.6.64.39.add11"> <cb/>raukṣyaṃ sañjanayatyāśus tataḥ śuṣyanti
+                    <l xml:id="SS.6.64.39.add11"> <cb/>raukṣyaṃ sañjanayaty āśus tataḥ śuṣyanti
                         dehinaḥ | </l>
                     <l xml:id="SS.6.64.39.add12"> tasmān nidāghasamaye śoṣaṇaṃ rūkṣaṇañ ca yat
                         | </l>

@@ -2383,8 +2383,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.39.add8">
                         <gap reason="omitted" extent="1" unit="pāda"/> vani<add
                             place="below">tā</add>yām iva kṣitau || </l>
-                    <l xml:id="SS.6.64.39.add9"> vitratyāṃ durbhbhagaṃ rūksaṃ
-                        ratha<unclear>d</unclear>bhārāruṇamvapuḥ | </l>
+                    <l xml:id="SS.6.64.39.add9"> vibhratyāṃ durbbhagaṃ rūkṣaṃ
+                        ratha<unclear>d</unclear>bhārāruṇam vapuḥ | </l>
                     <l xml:id="SS.6.64.39.add10"> vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitaṃ || </l>
                     <pb n="409r" facs="413"/>
                     <l xml:id="SS.6.64.39.add11"> raukṣyaṃ saṃjanayaty āśu tataḥ śuṣyaṃti
