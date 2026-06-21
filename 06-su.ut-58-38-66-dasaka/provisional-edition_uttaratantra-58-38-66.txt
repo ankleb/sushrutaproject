@@ -2890,7 +2890,7 @@
                     <l xml:id="SS.6.64.39.add10">
                         <label xml:lang="en">6.64.39.add10</label>
                         <caesura/>
-                         vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitaḥ | </l>
+                         vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitam | </l>
                     <l xml:id="SS.6.64.39.add11">
                         <label xml:lang="en">6.64.39.add11</label>
                         <caesura/>
