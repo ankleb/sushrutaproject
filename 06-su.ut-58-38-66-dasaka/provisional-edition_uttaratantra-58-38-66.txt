@@ -2904,12 +2904,12 @@
                     <l xml:id="SS.6.64.40cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.40cd</label>
                         <caesura/>
-                         vyāyāmamuṣṇamāyāsaṃ maithunaṃ paridāhi ca | </l>
+                         vyāyāmam uṣṇam āyāsaṃ maithunaṃ paridāhi ca | </l>
 
                     <l xml:id="SS.6.64.41ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.41ab</label>
                         <caesura/>
-                         rasāṃś cāgniguṇyaidrikṣāṃ viśeṣeṇa vivarjayet || </l>
+                         rasāṃś cāgniguṇodriktān viśeṣeṇa vivarjayet || </l>
 
                     <l xml:id="SS.6.64.41.add1">
                         <label xml:lang="en">6.64.41.add1</label>

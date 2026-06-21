@@ -2088,7 +2088,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.40cd"> vyā<lb n="6"/>yāmam uṣṇam āyāsaṃ maithunaṃ
                         paridāhi ca | </l>
 
-                    <l xml:id="SS.6.64.41ab"> rasāṃś cāgniguṇyaidri<unclear>kṣā</unclear>ṃ
+                    <l xml:id="SS.6.64.41ab"> rasāṃś cāgniguṇodriktāṃ
                         viśeṣeṇa vivarjayet || </l>
                     <cb/>
                     <l xml:id="SS.6.64.41.add1"> sarpiḥ khaṇḍa guḍāktāṃs tu sahākārarasānvitāṃ

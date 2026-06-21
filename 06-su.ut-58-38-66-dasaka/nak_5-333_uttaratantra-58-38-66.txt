@@ -2391,7 +2391,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         dehinaḥ | </l>
                     <l xml:id="SS.6.64.39.add12"> tasmān nidāghasamaye śoṣaṇaṃ rūkṣaṇañ ca yat
                         || </l>
-                    <l xml:id="SS.6.64.40cd"> vyāyāmamuṣṇamāyāsaṃ maithunaṃ paridāhi ca | </l>
+                    <l xml:id="SS.6.64.40cd"> vyāyāmam uṣṇam āyāsaṃ maithunaṃ paridāhi ca | </l>
 
                     <l xml:id="SS.6.64.41ab"> rasāṃś cāgnigu<gap reason="omitted"
                             extent="3" unit="char"/><gap reason="omitted" extent="5"
