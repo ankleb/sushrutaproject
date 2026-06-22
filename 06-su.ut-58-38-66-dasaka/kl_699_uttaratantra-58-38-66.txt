@@ -2100,10 +2100,9 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.41.add4"> prasahānūpamāṃsāni vṛṣyāṇy anyāni yāni ca | </l>
                     <l xml:id="SS.6.64.41.add5"> prakārair vivi<pb facs="264" n="207r"/><lb
                             n="1"/><unclear reason="faded">dhai</unclear>r adyān nidāghe svūkaṭumbinā | </l>
-                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vividhair āgair gauḍikaiśvasu
-                        suṃkṛḥtaiḥ | </l>
+                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vividhai rāgair gauḍikaiś ca susaṃkṛḥ taiḥ | </l>
                     <l xml:id="SS.6.64.41.add7"> suśītai snigdhamadhurais
-                        tarpa<cb/>yecchoṣitāṃs tanūn | </l>
+                        tarpa<cb/>yec choṣitāṃs tanūn | </l>
                     <l xml:id="SS.6.64.44cd"> hitañ ca bhojanaṃ grīṣme śītalaṃ madhuraṃ
                         dravaṃ | </l>
 

@@ -2930,25 +2930,25 @@
                     <l xml:id="SS.6.64.41.add5">
                         <label xml:lang="en">6.64.41.add5</label>
                         <caesura/>
-                        prakārair vividhair adyān nidāghe svakuṭumbinā | </l>
+                        prakārair vividhair adyān nidāghe svakuṭumbinā || </l>
                     <l xml:id="SS.6.64.41.add6">
                         <label xml:lang="en">6.64.41.add6</label>
                         <caesura/>
-                         ṣāḍavair vividhairāgair gauḍikaiśvasu suṃkṛḥtaiḥ | </l>
+                         ṣāḍavair vividhai rāgair gauḍikaiś ca susaṃkṛtaiḥ | </l>
                     <l xml:id="SS.6.64.41.add7">
                         <label xml:lang="en">6.64.41.add7</label>
                         <caesura/>
-                         suśītai snigdhamadhurais tarpayecchoṣitāṃs tanūn | </l>
+                         suśītaiḥ snigdhamadhurais tarpayec choṣitāṃs tanūn || </l>
 
                     <l xml:id="SS.6.64.44cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.44cd</label>
                         <caesura/>
-                         hitañ ca bhojanaṃ grīṣme śītalaṃ madhuraṃ dravaṃ | </l>
+                         hitañ ca bhojanaṃ grīṣme śītalaṃ madhuraṃ dravam | </l>
 
                     <l xml:id="SS.6.64.41.add8">
                         <label xml:lang="en">cf. 1938 ed. 6.64.41h</label>
                         <caesura/>
-                         saśarkareṇa payasā rātrāv api tu pūjitaṃ | </l>
+                         saśarkareṇa payasā rātrāv api tu pūjitam || </l>
 
                     <l xml:id="SS.6.64.41cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.41cd</label>
@@ -2958,7 +2958,8 @@
                     <l xml:id="SS.6.64.42">
                         <label xml:lang="en">cf. 1938 ed. 6.64.42</label>
                         <caesura/>
-                         candanāni parārdhyāni tathā sakamalotpalāḥ |
+                         candanāni parārdhyāni tathā sakamalotpalāḥ ||
+                         
                         <caesura/>
                          tālavṛttānilānhārā | </l>
 

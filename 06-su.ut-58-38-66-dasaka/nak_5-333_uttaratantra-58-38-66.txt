@@ -2408,14 +2408,14 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vṛṣyāṇy anyāni yāni ca || </l>
                     <l xml:id="SS.6.64.41.add5"> prakārair vvividhair adyā<cb/>n nidāghe
                         svakuṭumbinā | </l>
-                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vvividhair āgair mmo<gap
+                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vvividhai rāgair mmo<gap
                             reason="omitted" extent="4" unit="char"/> saṃskṛtaiḥ || </l>
                     <l xml:id="SS.6.64.41.add7"> suśītaiḥ snigdhamadhurais tarppaye<lb n="4"
-                    />cchoṣitāṃs tarūn | </l>
+                    />c choṣitāṃs tarūn | </l>
                     <l xml:id="SS.6.64.44cd"> hitañ ca bhojanaṃ grīṣme śītalam madhuran
                         dravaṃ<cb/> || </l>
 
-                    <l xml:id="SS.6.64.41.add8"> saśarkkareṇa payasā rātrāvapitu pūjitaṃ | </l>
+                    <l xml:id="SS.6.64.41.add8"> saśarkkareṇa payasā rātrāv api tu pūjitaṃ | </l>
 
                     <l xml:id="SS.6.64.41cd"> sarānsi vāpyaḥ sarito vanāni rucirāṇi ca || </l>
 
