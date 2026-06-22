@@ -2398,24 +2398,24 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             unit="char"/><lb n="2"/><gap reason="omitted" extent="1"
                             unit="char"/> jayet || </l>
 
-                    <l xml:id="SS.6.64.41.add1"> sarppiḥ khaṇḍa guḍāktāṃs tu
+                    <l xml:id="SS.6.64.41.add1"> sarppiḥkhaṇḍaguḍāktāṃs tu
                         sahākārarasānvitān | </l>
                     <cb/>
                     <l xml:id="SS.6.64.41.add2"> śaktūn pibet prātas takraiḥ śītatoyottaraṃ
                         naraḥ || </l>
                     <l xml:id="SS.6.64.41.add3"> yavagodhūmavikṛtīḥ śālīṃś ca vividhān api | </l>
                     <l xml:id="SS.6.64.41.add4"> prasahā<lb n="3"/>nūpamānsāni
-                        vṛ<unclear>ṣyā</unclear>ṇyanyāni yāni ca || </l>
-                    <l xml:id="SS.6.64.41.add5"> prakārair vvividhair adyā<cb/>nnidāghe
+                        vṛṣyāṇy anyāni yāni ca || </l>
+                    <l xml:id="SS.6.64.41.add5"> prakārair vvividhair adyā<cb/>n nidāghe
                         svakuṭumbinā | </l>
-                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vvividhair āgair mmo<gap
+                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vvividhai rāgair mmo<gap
                             reason="omitted" extent="4" unit="char"/> saṃskṛtaiḥ || </l>
                     <l xml:id="SS.6.64.41.add7"> suśītaiḥ snigdhamadhurais tarppaye<lb n="4"
-                    />cchoṣitāṃs tarūn | </l>
+                    />c choṣitāṃs tarūn | </l>
                     <l xml:id="SS.6.64.44cd"> hitañ ca bhojanaṃ grīṣme śītalam madhuran
                         dravaṃ<cb/> || </l>
 
-                    <l xml:id="SS.6.64.41.add8"> saśarkkareṇa payasā rātrāvapitu pūjitaṃ | </l>
+                    <l xml:id="SS.6.64.41.add8"> saśarkkareṇa payasā rātrāv api tu pūjitaṃ | </l>
 
                     <l xml:id="SS.6.64.41cd"> sarānsi vāpyaḥ sarito vanāni rucirāṇi ca || </l>
 

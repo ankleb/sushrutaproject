@@ -1961,7 +1961,7 @@ iii) 19ef is placed after 18ab     -->
                          tathekṣuvikṛt<del>i</del><add>ī</add>ñ chālīṃ sugandhāṃ<cb/>ś ca
                         navān api | </l>
 
-                    <l xml:id="SS.6.64.29"> prasahānūpāmāṃsāni kravyādabilaśāyināṃ |
+                    <l xml:id="SS.6.64.29"> prasahānūpamāṃsāni kravyādabilaśāyināṃ |
                         <caesura/>
                          audakānāṃ plavānāñ ca pādināñ copayo<lb n="5"/>jayet | </l>
 
@@ -2091,19 +2091,18 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.41ab"> rasāṃś cāgniguṇodriktāṃ
                         viśeṣeṇa vivarjayet || </l>
                     <cb/>
-                    <l xml:id="SS.6.64.41.add1"> sarpiḥ khaṇḍa guḍāktāṃs tu sahākārarasānvitāṃ
+                    <l xml:id="SS.6.64.41.add1"> sarpiḥkhaṇḍaguḍāktāṃs tu sahākārarasānvitāṃ
                         | </l>
-                    <l xml:id="SS.6.64.41.add2"> sa<unclear>kkū</unclear>n pibet prātas
+                    <l xml:id="SS.6.64.41.add2"> sa<unclear>ktū</unclear>n pibet prātas
                         takraiḥ śītatoyottaraṃ naraḥ | </l>
                     <l xml:id="SS.6.64.41.add3"> yavagodhūmavikṛtīḥ śālīṃś ca vividhā<cb/>n
                         api | </l>
-                    <l xml:id="SS.6.64.41.add4"> prasahānūpamāṃ sāni vṛṣyāṇyanyāni yāni ca | </l>
+                    <l xml:id="SS.6.64.41.add4"> prasahānūpamāṃsāni vṛṣyāṇy anyāni yāni ca | </l>
                     <l xml:id="SS.6.64.41.add5"> prakārair vivi<pb facs="264" n="207r"/><lb
-                            n="1"/>dhair adyān nidāghe svalkaṭumbinā | </l>
-                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vividhair āgair gauḍikaiśvasu
-                        suṃkṛḥtaiḥ | </l>
+                            n="1"/><unclear reason="faded">dhai</unclear>r adyān nidāghe svūkaṭumbinā | </l>
+                    <l xml:id="SS.6.64.41.add6"> ṣāḍavair vividhai rāgair gauḍikaiś ca susaṃkṛḥ taiḥ | </l>
                     <l xml:id="SS.6.64.41.add7"> suśītai snigdhamadhurais
-                        tarpa<cb/>yecchoṣitāṃs tanūn | </l>
+                        tarpa<cb/>yec choṣitāṃs tanūn | </l>
                     <l xml:id="SS.6.64.44cd"> hitañ ca bhojanaṃ grīṣme śītalaṃ madhuraṃ
                         dravaṃ | </l>
 
