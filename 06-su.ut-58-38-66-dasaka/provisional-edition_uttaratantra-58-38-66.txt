@@ -2914,11 +2914,11 @@
                     <l xml:id="SS.6.64.41.add1">
                         <label xml:lang="en">6.64.41.add1</label>
                         <caesura/>
-                         sarpiḥ khaṇḍa guḍāktāṃs tu sahākārarasānvitāṃ | </l>
+                         sarpiḥkhaṇḍaguḍāktāṃs tu sahakārarasānvitān | </l>
                     <l xml:id="SS.6.64.41.add2">
                         <label xml:lang="en">6.64.41.add2</label>
                         <caesura/>
-                         sakkūn pibet prātas takraiḥ śītatoyottaraṃ naraḥ | </l>
+                         saktūn pibet prātas takraiḥ śītatoyottaraṃ naraḥ || </l>
                     <l xml:id="SS.6.64.41.add3">
                         <label xml:lang="en">6.64.41.add3</label>
                         <caesura/>
@@ -2926,11 +2926,11 @@
                     <l xml:id="SS.6.64.41.add4">
                         <label xml:lang="en">6.64.41.add4</label>
                         <caesura/>
-                         prasahānūpamāṃ sāni vṛṣyāṇyanyāni yāni ca | </l>
+                         prasahānūpamāṃsāni vṛṣyāṇy anyāni yāni ca | </l>
                     <l xml:id="SS.6.64.41.add5">
                         <label xml:lang="en">6.64.41.add5</label>
                         <caesura/>
-                         prakārair vividhair adyānnidāghe svalkaṭumbinā | </l>
+                        prakārair vividhair adyān nidāghe svakuṭumbinā | </l>
                     <l xml:id="SS.6.64.41.add6">
                         <label xml:lang="en">6.64.41.add6</label>
                         <caesura/>
