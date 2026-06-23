@@ -2114,16 +2114,16 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.42"> candanāni parārdhyāni tathā
                             sakamalotpa<unclear reason="damaged">lā</unclear>ḥ |
                         <caesura/>
-                         tālavṛttānilānhārā <unclear extent="8" reason="broken"
+                         tālavṛntānilān hārā<unclear extent="8" reason="broken"
                             unit="char"/><lb n="2"/>| </l>
 
                     <l xml:id="SS.6.64.43ab"> gharmakālaṃ niṣeveta vāsāṃsi sulaghūni ca || </l>
 
 
 
-                    <l xml:id="SS.6.64.45.add"> divā śītagṛhe cāpi padmotpaladalo yute | </l>
+                    <l xml:id="SS.6.64.45.add"> divā śītagṛhe cāpi padmotpaladalāyute | </l>
 
-                    <l xml:id="SS.6.64.46ab"> śamīta<cb/> ca yathākāmaṃ spṛśyamāno
+                    <l xml:id="SS.6.64.46ab"> <unclear reason="overwritten">śay</unclear>īta<cb/> ca yathākāmaṃ spṛśyamāno
                             <del>li</del><add>ni</add>laiḥ sukhaṃ | </l>
 
                     <l xml:id="SS.6.64.46.add1"> rā<unclear reason="damaged">trau</unclear>
@@ -2133,11 +2133,11 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.46.add3"> vya<cb/>janair vī<unclear>jña</unclear>mānaś
                         ca spṛśyamānaś ca komalaiḥ | </l>
                     <l xml:id="SS.6.64.46.add4">
-                        <unclear reason="damaged">strīṇāṃ</unclear> stanaiḥ karaiś cāpi
+                        <unclear reason="damaged">strīṇā</unclear> stanaiḥ karaiś cāpi
                         muktāhāraiś ca śītalaiḥ | </l>
-                    <l xml:id="SS.6.64.46.add5"> saṃse<unclear>dyā</unclear>mā<lb n="3"/>na
+                    <l xml:id="SS.6.64.46.add5"> saṃsevyāmā<lb n="3"/>na
                         āsīta suhṛdbhir abhisamvṛtaḥ | </l>
-                    <l xml:id="SS.6.64.46.add6"> śayītaśayane śubhre candanārdrapaṭo naraḥ | </l>
+                    <l xml:id="SS.6.64.46.add6"> śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
                     <l xml:id="SS.6.64.46.add7"> rūkṣoc chuṣkeṣu deheṣu<cb/> grīṣme vā
                         <unclear>pu</unclear>ṣpi<unclear>to</unclear>valī || </l>
                     <l xml:id="SS.6.64.46.add8"> pravṛddhaga<unclear reason="damaged"

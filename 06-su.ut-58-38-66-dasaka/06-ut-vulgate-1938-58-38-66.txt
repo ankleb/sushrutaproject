@@ -1739,7 +1739,7 @@
 
                     <l xml:id="SS.6.64.41ab"> rasāṃś cāgniguṇodrikatān nidāghe
                         parivarjayet |</l>
-                    <l xml:id="SS.6.64.41cd"> sarāṃsi sarito vāpīrvanāni rucirāṇi ca || </l>
+                    <l xml:id="SS.6.64.41cd"> sarāṃsi sarito vāpīr vanāni rucirāṇi ca || </l>
 
 
 

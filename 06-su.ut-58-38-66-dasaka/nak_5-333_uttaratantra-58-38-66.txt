@@ -2422,15 +2422,14 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.42"> candanā<lb n="5"/>ni parārdhyāni tathā
                         sakamalotpalāḥ ||
                         <caesura/>
-                         tālavṛntānilāhārā<cb/>s tathā śītagṛhāṇi ca || </l>
+                         tālavṛntānilā hārā<cb/>s tathā śītagṛhāṇi ca || </l>
 
                     <l xml:id="SS.6.64.43ab"> gharmmakālan nibodheta vāsānsi sulaghūni ca
                         | </l>
 
-                    <l xml:id="SS.6.64.45.add"> divā śītagṛhe cāpi padmo<lb n="6"/>tpaladalo
-                        yute | </l>
+                    <l xml:id="SS.6.64.45.add"> divā śītagṛhe cāpi padmo<lb n="6"/>tpaladalāyute | </l>
 
-                    <l xml:id="SS.6.64.46ab"> śayīta cayanakāmaṃ spṛśyamānā nilaiḥ sukhaiḥ
+                    <l xml:id="SS.6.64.46ab"> śayīta ca yanakāmaṃ spṛśyamānā nilaiḥ sukhaiḥ
                         || </l>
 
 
