@@ -2445,7 +2445,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.46.add5"> saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ | </l>
                     <l xml:id="SS.6.64.46.add6"> śayīta śayane śubhre candanārdrakaṭo naraḥ || </l>
                     <l xml:id="SS.6.64.46.add7"> rū<lb n="2"/>kṣocchuṣkeṣu deheṣu grīṣme vā
-                        puṣpitovalī || <g ref="#newa-old-gap-filler"/>
+                        puṣpito valī || <g ref="#newa-old-gap-filler"/>
                     </l>
                     <l xml:id="SS.6.64.46.add8">
                         pravṛddhaga<del>mbhīrara</del><cb/>mbhīraraver mmeghair

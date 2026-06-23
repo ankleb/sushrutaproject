@@ -2139,7 +2139,7 @@ iii) 19ef is placed after 18ab     -->
                         āsīta suhṛdbhir abhisamvṛtaḥ | </l>
                     <l xml:id="SS.6.64.46.add6"> śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
                     <l xml:id="SS.6.64.46.add7"> rūkṣocchuṣkeṣu deheṣu<cb/> grīṣme vā
-                        <unclear>pu</unclear>ṣpi<unclear>to</unclear>valī || </l>
+                        <unclear>pu</unclear>ṣpi<unclear>to</unclear> valī || </l>
                     <l xml:id="SS.6.64.46.add8"> pravṛddhaga<unclear reason="damaged"
                             >mbhī</unclear>raravair meghair ativinādite | </l>
                     <l xml:id="SS.6.64.46.add9"> prodbhinnakandale

@@ -3023,10 +3023,11 @@
                     <l xml:id="SS.6.64.46.add7">
                         <label xml:lang="en">6.64.46.add7</label>
                         <caesura/>
-                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpitāvalī || </l>
+                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpito 'balī || </l>
                     <l xml:id="SS.6.64.46.add8">
                         <label xml:lang="en">6.64.46.add8</label>
                         <caesura/>
+                        
                          pravṛddhagambhīraravair meghair ativinādite | </l>
                     <l xml:id="SS.6.64.46.add9">
                         <label xml:lang="en">6.64.46.add9</label>
