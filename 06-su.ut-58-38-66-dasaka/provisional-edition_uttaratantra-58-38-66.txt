@@ -2958,10 +2958,21 @@
                     <l xml:id="SS.6.64.42">
                         <label xml:lang="en">cf. 1938 ed. 6.64.42</label>
                         <caesura/>
-                         candanāni parārdhyāni tathā sakamalotpalāḥ ||
+                        candanāni parārdhyāni srajaḥ sakamalotpalāḥ ||<anchor
+                            n="SS.6.64.42"/>
                          
                         <caesura/>
-                         tālavṛttānilānhārā | </l>
+                        tālavṛntānilān hārāṃs tathā śītagṛhāṇi ca | </l>
+                    <ab corresp="#SS.6.64.42" type="apparatus">
+                        <list type="Testimonia">
+                            <item xml:lang="en" corresp="#SS.6.64.42">The reading of the vulgate
+                                (<foreign>srajaḥ</foreign>) has been adopted as it is required to
+                                make sense of
+                                the feminine plural adjective following it (i.e.,
+                                <foreign>sakamalotpalāḥ</foreign>), which is attested by all
+                                witnesses. </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.43ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.43ab</label>
@@ -2976,12 +2987,12 @@
                     <l xml:id="SS.6.64.45.add">
                         <label xml:lang="en">cf. 1938 ed. 6.64.45a</label>
                         <caesura/>
-                         divā śītagṛhe cāpi padmotpaladalo yute | </l>
+                         divā śītagṛhe cāpi padmotpaladalāyute | </l>
 
                     <l xml:id="SS.6.64.46ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.46ab</label>
                         <caesura/>
-                         śamīta ca yathākāmaṃ spṛśyamāno nilaiḥ sukhaṃ | </l>
+                         śayīta ca yathākāmaṃ spṛśyamāno 'nilaiḥ sukham || </l>
 
                     <l xml:id="SS.6.64.46cd"/>
 
@@ -2992,11 +3003,11 @@
                     <l xml:id="SS.6.64.46.add2">
                         <label xml:lang="en">6.64.46.add2</label>
                         <caesura/>
-                         jalajaih kusumaiś citraiś candrapādāvaguṇṭhite | </l>
+                         jalajaih kusumaiś citraiś candrapādāvaguṇṭhite || </l>
                     <l xml:id="SS.6.64.46.add3">
                         <label xml:lang="en">cf. 1938 ed. 1938 ed. 6.64.46.add3</label>
                         <caesura/>
-                         vyajanair vījñamānaś ca spṛśyamānaś ca komalaiḥ | </l>
+                         vyajanair vījyamānaś ca spṛśyamānaś ca komalaiḥ | </l>
                     <l xml:id="SS.6.64.46.add4">
                         <label xml:lang="en">6.64.46.add4</label>
                         <caesura/>
@@ -3004,18 +3015,19 @@
                     <l xml:id="SS.6.64.46.add5">
                         <label xml:lang="en">6.64.46.add5</label>
                         <caesura/>
-                         saṃsedyāmāna āsīta suhṛdbhir abhisamvṛtaḥ | </l>
+                         saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ || </l>
                     <l xml:id="SS.6.64.46.add6">
                         <label xml:lang="en">6.64.46.add6</label>
                         <caesura/>
-                         śayītaśayane śubhre candanārdrapaṭo naraḥ | </l>
+                         śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
                     <l xml:id="SS.6.64.46.add7">
                         <label xml:lang="en">6.64.46.add7</label>
                         <caesura/>
-                         rūkṣoc chuṣkeṣu deheṣu grīṣme vā puṣpitovalī || </l>
+                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpito 'balī || </l>
                     <l xml:id="SS.6.64.46.add8">
                         <label xml:lang="en">6.64.46.add8</label>
                         <caesura/>
+                        
                          pravṛddhagambhīraravair meghair ativinādite | </l>
                     <l xml:id="SS.6.64.46.add9">
                         <label xml:lang="en">6.64.46.add9</label>
