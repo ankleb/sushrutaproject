@@ -3007,7 +3007,7 @@
                     <l xml:id="SS.6.64.46.add3">
                         <label xml:lang="en">cf. 1938 ed. 1938 ed. 6.64.46.add3</label>
                         <caesura/>
-                         vyajanair vījñamānaś ca spṛśyamānaś ca komalaiḥ | </l>
+                         vyajanair vījyamānaś ca spṛśyamānaś ca komalaiḥ | </l>
                     <l xml:id="SS.6.64.46.add4">
                         <label xml:lang="en">6.64.46.add4</label>
                         <caesura/>
@@ -3015,15 +3015,15 @@
                     <l xml:id="SS.6.64.46.add5">
                         <label xml:lang="en">6.64.46.add5</label>
                         <caesura/>
-                         saṃsevyāmāna āsīta suhṛdbhir abhisamvṛtaḥ || </l>
+                         saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ || </l>
                     <l xml:id="SS.6.64.46.add6">
                         <label xml:lang="en">6.64.46.add6</label>
                         <caesura/>
-                         śayītaśayane śubhre candanārdrapaṭo naraḥ | </l>
+                         śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
                     <l xml:id="SS.6.64.46.add7">
                         <label xml:lang="en">6.64.46.add7</label>
                         <caesura/>
-                         rūkṣoc chuṣkeṣu deheṣu grīṣme vā puṣpitovalī || </l>
+                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpitāvalī || </l>
                     <l xml:id="SS.6.64.46.add8">
                         <label xml:lang="en">6.64.46.add8</label>
                         <caesura/>

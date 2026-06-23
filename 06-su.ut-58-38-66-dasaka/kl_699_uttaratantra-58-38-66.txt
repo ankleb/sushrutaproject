@@ -2130,7 +2130,7 @@ iii) 19ef is placed after 18ab     -->
                         harmyatale hṛdye puṣpaprakarabhūṣite | </l>
                     <l xml:id="SS.6.64.46.add2"> jalajaih kusumaiś citraiś
                         candrapādāvaguṇṭhite | </l>
-                    <l xml:id="SS.6.64.46.add3"> vya<cb/>janair vī<unclear>jña</unclear>mānaś
+                    <l xml:id="SS.6.64.46.add3"> vya<cb/>janair vī<unclear>jya</unclear>mānaś
                         ca spṛśyamānaś ca komalaiḥ | </l>
                     <l xml:id="SS.6.64.46.add4">
                         <unclear reason="damaged">strīṇā</unclear> stanaiḥ karaiś cāpi
@@ -2138,7 +2138,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.46.add5"> saṃsevyāmā<lb n="3"/>na
                         āsīta suhṛdbhir abhisamvṛtaḥ | </l>
                     <l xml:id="SS.6.64.46.add6"> śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
-                    <l xml:id="SS.6.64.46.add7"> rūkṣoc chuṣkeṣu deheṣu<cb/> grīṣme vā
+                    <l xml:id="SS.6.64.46.add7"> rūkṣocchuṣkeṣu deheṣu<cb/> grīṣme vā
                         <unclear>pu</unclear>ṣpi<unclear>to</unclear>valī || </l>
                     <l xml:id="SS.6.64.46.add8"> pravṛddhaga<unclear reason="damaged"
                             >mbhī</unclear>raravair meghair ativinādite | </l>

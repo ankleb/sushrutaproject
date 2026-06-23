@@ -2443,8 +2443,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.46.add4"> strīṇāṃ stanaiḥ karaiś cāpi muktāhāraiś ca
                         śītalaiḥ || </l>
                     <l xml:id="SS.6.64.46.add5"> saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ | </l>
-                    <l xml:id="SS.6.64.46.add6"> śayītaśayane śubhre candanārdrakaṭo naraḥ || </l>
-                    <l xml:id="SS.6.64.46.add7"> rū<lb n="2"/>kṣoc chuṣkeṣu deheṣu grīṣme vā
+                    <l xml:id="SS.6.64.46.add6"> śayīta śayane śubhre candanārdrakaṭo naraḥ || </l>
+                    <l xml:id="SS.6.64.46.add7"> rū<lb n="2"/>kṣocchuṣkeṣu deheṣu grīṣme vā
                         puṣpitovalī || <g ref="#newa-old-gap-filler"/>
                     </l>
                     <l xml:id="SS.6.64.46.add8">
