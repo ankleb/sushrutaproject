@@ -5340,9 +5340,11 @@ vulgate upto verse no. 12 -->
                         <caesura/>
                          vimānayānaprāsādair yaś ca saṅkulam a<cb n="2"/>mbaram | </l>
 
-                    <l xml:id="SS.1.30.18"> yaś cāpy anirmalaṃ mūrttim antarikṣe
+                    <l xml:id="SS.1.30.18ab"> yaś cāpy anirmalaṃ mūrttim antarikṣe
                         prapaśyati |
-                        <caesura/>
+                    </l>
+                    
+                    <l xml:id="SS.1.30.18cd">
                          dhūmanīhāravāsobhir āvṛtām iva medinīm | </l>
 
                     <l xml:id="SS.1.30.19"> pra<cb n="1"/>dīptam iva lokañ ca yo vāplutam

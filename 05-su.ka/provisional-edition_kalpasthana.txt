@@ -51,8 +51,7 @@
                 <date>2020</date>
                 <pubPlace>The University of Alberta</pubPlace>
                 <publisher>The Suśruta Project<ptr
-target="http://sushrutaproject.github.io"
-                    /></publisher>
+                        target="http://sushrutaproject.github.io"/></publisher>
             </publicationStmt>
 
 
@@ -2009,6 +2008,12 @@ target="http://sushrutaproject.github.io"
                          nā sāvasādaś ca sakaṇṭhabhaṅgaḥ |<anchor n="SS.5.3.41-n1"/></l>
 
                     <ab corresp="#SS.5.3.41" type="apparatus">
+                        <list type="Emendation">
+                            <item xml:lang="en" corresp="#SS.5.3.41-n1">We emend to the singular
+                                    <foreign>sakaṇṭhabhaṅgaḥ</foreign> 
+                                with the vulgate, for grammar, though the author 
+                                may have intended a plural sense.</item>
+                        </list>
                         <list type="Testimonia">
                             <item xml:lang="en" corresp="#SS.5.3.41-n1"><title
                                     xml:lang="en">Mādhavanidāna</title> 69.22.</item>
@@ -2054,6 +2059,9 @@ target="http://sushrutaproject.github.io"
                     <l xml:id="SS.5.3.43cd"/>
 
                     <l xml:id="SS.5.3.44"/>
+
+
+
 
 
 
@@ -3826,6 +3834,9 @@ target="http://sushrutaproject.github.io"
 
                     <l style="prose" xml:id="SS.5.7.trailer">kalpe 6 || o ||</l>
 
+
+
+
                 </div>
 
 
@@ -5568,6 +5579,9 @@ target="http://sushrutaproject.github.io"
 
                     <l xml:id="SS.5.8.trailer2">sauśrute śalyatantre kalpasthānaṃ samāptaṃ
                         ||</l>
+
+
+
 
 
                 </div>

@@ -249,9 +249,9 @@
             <change who="Dominik Wujastyk" when="2026-04-04">Completed the addition of
                 verses 1.29.add1 - add10 that were skipped in the original transcription
                 of all three manuscripts, K, N, and H</change>
-                     <change when="2026-04-08" who="Dominik Wujastyk">Completed adding page-begin markers
-                with facs attributes that match the IIIF image numbers delivered from
-                archive.org.</change>
+            <change when="2026-04-08" who="Dominik Wujastyk">Completed adding page-begin
+                markers with facs attributes that match the IIIF image numbers delivered
+                from archive.org.</change>
         </revisionDesc>
     </teiHeader>
 
@@ -514,6 +514,7 @@
 
                     <l xml:id="SS.1.1.trailer"> iti ||1|| </l>
 
+
                 </div>
 
                 <div n="2" type="adhyāya">
@@ -598,6 +599,7 @@
                         <unclear>nā</unclear>dhīyate nāśucinā<lb n="2"/> ca nityam</l>
 
                     <l xml:id="SS.1.2.trailer"> iti || 2 || ||</l>
+
 
                 </div>
 
@@ -917,6 +919,7 @@
 
                     <l xml:id="SS.1.3.trailer"> 3 || </l>
 
+
                 </div>
 
 
@@ -981,6 +984,7 @@
                     <l xml:id="SS.1.4.trailer">
                         <pb ana="dscn2984 fol 008.jpg lower" facs="10" n="9r"/><lb n="1"/>
                         || 4 || </l>
+
 
                 </div>
 
@@ -1215,6 +1219,7 @@
                     <l xml:id="SS.1.5.trailer">
                         <unclear>hya</unclear>|| ||</l>
 
+
                 </div>
 
 
@@ -1402,6 +1407,7 @@
 
                     <l xml:id="SS.1.6.trailer"><unclear extent="1" unit="char"/><lb n="3"
                         />|| <unclear>bhra</unclear> || || ||</l>
+
 
                 </div>
 
@@ -1691,6 +1697,7 @@
 
 
 
+
                 </div>
 
 
@@ -1734,6 +1741,7 @@
                         tatra yogyāñ ca kārayet ||</l>
 
                     <l xml:id="SS.1.9.trailer"> ḍe || </l>
+
 
 
                 </div>
@@ -1820,6 +1828,7 @@
                         daśa ||</l>
 
                     <l xml:id="SS.1.10.trailer"> ḍo || </l>
+
 
                 </div>
 
@@ -2014,6 +2023,7 @@
                         ghorānn iti ||</l>
 
                     <l xml:id="SS.1.11.trailer"> ḍo e || ||</l>
+
 
 
 
@@ -2264,6 +2274,7 @@
                     <l xml:id="SS.1.12.trailer">12 || 0 ||</l>
 
 
+
                 </div>
 
                 <div n="13" type="adhyāya">
@@ -2475,6 +2486,7 @@
                          jānīyād yo jalaukānāṃ sa rājñaḥ karttum arha<lb n="5"/>ti ||</l>
 
                     <l xml:id="SS.1.13.trailer">13 ||</l>
+
 
 
 
@@ -3224,6 +3236,7 @@
 
 
 
+
                 </div>
 
                 <div n="17" type="adhyāya">
@@ -3342,8 +3355,8 @@
                          pāneyam pāyayet madyaṃ tīkṣṇaṃ yo vedanāsahaṃ || </l>
 
                     <l xml:id="SS.1.17.12"> na mūrcchaty annasaṃyogā<pb
-                            ana="dscn3011 fol 035.jpg upper"
-                            facs="37" n="35v"/><lb n="1"/>t mattaḥ śastran na budhyate |
+                            ana="dscn3011 fol 035.jpg upper" facs="37" n="35v"/><lb n="1"
+                        />t mattaḥ śastran na budhyate |
                         <caesura/>
                          tasmād avaśyaṃ bhoktavyaṃ rogeṣūkteṣu karmmaṇi || </l>
 
@@ -3383,7 +3396,7 @@
                         <caesura/>
                          ete kramā vraṇasyoktā<unclear>s</unclear>
                         <unclear>sa</unclear>ptamaṃ vaikṛtāpaham</l>
-                    
+
                     <l xml:id="SS.1.17.trailer"> iti || ḍoñ || </l>
 
                     <trailer/>
@@ -3555,6 +3568,7 @@
                         tato ban<unclear>dhī</unclear>n niveśayed iti || </l>
 
                     <l xml:id="SS.1.18.trailer">ḍoḍa ||</l>
+
 
 
                 </div>
@@ -4106,6 +4120,7 @@
 
                     <l xml:id="SS.1.21.trailer">21 ||</l>
 
+
                 </div>
 
 
@@ -4190,6 +4205,7 @@
                         <caesura/>
                          sarvvaśophavikāre<pb ana="dscn3023 fol 047.jpg upper" facs="49"
                             n="47v"/><lb n="1"/>ṣu vraṇaval lakṣayed bhiṣag iti || 22 || </l>
+
 
                 </div>
 
@@ -4338,6 +4354,7 @@
                          harṣāt krodhād bhayād vāpi vraṇo rūḍho 'pi dīryate || 2<lb n="6"
                         />3 || </l>
 
+
                 </div>
 
 
@@ -4461,6 +4478,7 @@
                          vistareṇottare tantre sarvvabādhām pracakṣmaha iti ||</l>
 
                     <l xml:id="SS.1.24.trailer"> 24 || </l>
+
 
                 </div>
 
@@ -4700,6 +4718,7 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
                         <caesura/>
                          vikāraḥ sādhyate kaścic caturbbhir api karmmabhiḥ || 25 || ❈ ||
                             <g ref="#newa-placeholder-mark"/></l>
+
 
                 </div>
 
@@ -5552,6 +5571,7 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
                          sa dīrghāyur iti khyā<lb n="3"/>tas tasmai karmma samācaret || 29
                         || </l>
 
+
                 </div>
 
 
@@ -5632,15 +5652,17 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
                         <caesura/>
                         <lb n="5"/>vimānayānaprāsādair yaś ca saṅkulam ambaraṃ | </l>
 
-                    <l xml:id="SS.1.30.18"> yaś cāpy anirmmalaṃ mūrttim antarikṣe
-                        prapaśyati ||
+                    <l xml:id="SS.1.30.18ab"> yaś cāpy anirmmalaṃ mūrttim antarikṣe
+                        prapaśyati ||</l>
+                    
+                    <l xml:id="SS.1.30.18.add"> dvandvāni śītamuṣkañ ca kālāvasthādiśas
+                        tathā |
                         <caesura/>
-                         dvandvāniśītamuṣkañ ca kālāvasthādiśas tathā |
-                        <caesura/>
-                         viparīte<add place="below">na</add> gṛhṇāti bhāvānān yo śca yo<pb
-                            facs="65" n="63v"/> naraḥ||
-                        <caesura/>
-                         dhūmanīhāravāsobhir āvṛtām iva medinīṃ | </l>
+                         viparīte<add place="below">na</add> gṛhṇāti bhāvānān yoś ca yo<pb
+                            facs="65" n="63v"/> naraḥ||</l>
+                    
+                    <l xml:id="SS.1.30.18cd"> dhūmanīhāravāsobhir āvṛtām iva medinīṃ | </l>
+                    
                     <l xml:id="SS.1.30.19"> pradīptam iva lokañ ca yo vāplutam ivāmbhasā
                         ||
                         <caesura/>
@@ -5674,6 +5696,7 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
                         />|| </l>
 
                     <l xml:id="SS.1.30.trailer">|| 30 || </l>
+
 
                 </div>
 
@@ -5833,10 +5856,10 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
                     <l xml:id="SS.1.31.32"> tāni bhaiṣajavīryāṇi pratinighnanti sarvvadā
                         <cb/>|
                         <caesura/>
-                        tasmāt mohāḥ kriyāḥ sarvvā bhavantīha gatāyuṣam</l>
-                    
-                    
-                    <l xml:id="SS.1.31.trailer">  iti || 31 || </l>
+                         tasmāt mohāḥ kriyāḥ sarvvā bhavantīha gatāyuṣam</l>
+
+
+                    <l xml:id="SS.1.31.trailer"> iti || 31 || </l>
 
                     <milestone facs="dscn3040 fol 064.jpg lower" n="65r4" unit="jpeg"/>
                 </div>

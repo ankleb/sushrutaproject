@@ -2568,7 +2568,7 @@
                     <l xml:id="SS.6.64.16k">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16k</label>
                         <caesura/>
-                         vidāhi<pc> </pc>kṣāratīkṣṇoṣṇadivāsvapnagurūṇy atha | </l>
+                        vidāhi<pc> </pc>kṣāratīkṣṇoṣṇa<pc> </pc>divāsvapnagurūṇy atha | </l>
 
                     <l xml:id="SS.6.64.16l">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16l</label>

@@ -646,6 +646,7 @@ C) Special notes :
 
 
 
+
                 </div>
 
 
@@ -882,6 +883,7 @@ C) Special notes :
 
 
 
+
                 </div>
 
                 <div n="4" type="adhyāya">
@@ -1088,7 +1090,7 @@ C) Special notes :
                     <l xml:id="SS.3.4.48"> kaphamedovi<g ref="#broken-danda"
                         /><cb/>ṣārttānāṃ rātrau jāgaraṇaṃ hitam |
                         <caesura/>
-                        divāsvapnaś ca tṛṭchūlahikkājīrṇṇātisāriṇāṃ || </l>
+                         divāsvapnaś ca tṛṭchūlahikkājīrṇṇātisāriṇāṃ || </l>
 
                     <l xml:id="SS.3.4.49"> indriyārthe<lb n="4"/>ṣv asamvittir jjṛmbhanaṃ
                         gauravaṃ klamaḥ | nidrārttasyaiva yasyeha <g ref="#broken-danda"
@@ -1116,8 +1118,8 @@ C) Special notes :
                             ref="#newa-placeholder-mark"/></l>
 
                     <l xml:id="SS.3.4.64">
-                        <lb n="2"/> tatra vāta prakṛti jāgarūkaḥ śītadveṣī
-                        durbbhagasteno nā<cb/>ryo mastaro gāndharvvaḥ | sphuṭitacaraṇau
+                        <lb n="2"/> tatra vāta prakṛti jāgarūkaḥ śītadveṣī durbbhagasteno
+                        nā<cb/>ryo mastaro gāndharvvaḥ | sphuṭitacaraṇau
                         rūkṣālpakeśasmaśruḥ kaṭhinakrodhī dantakhādī a<g
                             ref="#broken-danda"/><lb n="3"/>lpavalo 'lpāyuś ca bhavati || </l>
 
@@ -1133,12 +1135,13 @@ C) Special notes :
 
 
                     <l xml:id="SS.3.4.68"> pittaprakṛtis tu svedanaḥ śītasaho<cb/>
-                        durggandhī pītaḥ kālo vā 
-                        śithilāṅgas tāmranakhanayanatālujihvauṣṭhapādapāṇitalo du<lb n="6"
-                        />rbbhago valīpalito sṛṣṭo vahubhug uṣṇadveṣī
-                        kṣiprakrodhaprasādaśīlo madhyamāyuś ca bhavati || </l>
+                        durggandhī pītaḥ kālo vā śithilāṅgas
+                        tāmranakhanayanatālujihvauṣṭhapādapāṇitalo du<lb n="6"/>rbbhago
+                        valīpalito sṛṣṭo vahubhug uṣṇadveṣī kṣiprakrodhaprasādaśīlo
+                        madhyamāyuś ca bhavati || </l>
 
-                    <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir nnigṛhyavaktā tejasvī samiti<pb n="172r" facs="175"/><g
+                    <l xml:id="SS.3.4.69"> bhavati cātra || medhāvī nipuṇamatir
+                        nnigṛhyavaktā tejasvī samiti<pb n="172r" facs="175"/><g
                             ref="#newa-placeholder-mark"/>ṣu durnnivāravīryaḥ | suptaḥ saṃ
                         kanakapalāśakarṇṇikārāṃ saṃpaśyed api ca hutāśavidyudulkāṃ || </l>
 
@@ -1152,8 +1155,8 @@ C) Special notes :
                     <l xml:id="SS.3.4.72"> śleṣmaprakṛtis tu
                             durvvedīsvaranistriṃśārddrāriṣṭakaśarakā<lb n="3"/>ṇḍānām
                         anyatamavarṇaḥ subhagaḥ priyadarśano madhurapriyaḥ | <cb/> kṛtajño
-                        dhṛtimān sahiṣṇur alolupo valavāṃś ciragrāhī dṛḍhavairo dīrghāyuś ca
-                        bhavati || </l>
+                        dhṛtimān sahiṣṇur alolupo valavāṃś ciragrāhī dṛḍhavairo dīrghāyuś
+                        ca bhavati || </l>
 
                     <l xml:id="SS.3.4.73"> snighdāṅgaḥ sthirasuvibhaktacārugātro
                         lakṣmī<cb/>vān jaladamṛdaṅgasiṃhaghoṣaḥ | suptaḥ san
@@ -1162,15 +1165,16 @@ C) Special notes :
 
 
 
-                    <l xml:id="SS.3.4.75"> dṛḍhaśāstramatiḥ sthiramitramanaḥ pari<g
-                            ref="#broken-danda"/><cb/>gaṇya cirāc ca dadāti vahuḥ
+                    <l xml:id="SS.3.4.75"> dṛḍhaśāstramatiḥ sthiramitrama<subst><del
+                                cert="medium">miḥ</del><add>naḥ</add></subst> pari<g
+                            ref="#broken-danda"/><cb/>gaṇya <unclear>ci</unclear>rāc ca dadāti vahuḥ
                         pariniṣṭatavākyapadaḥ satataṃ gurumānakaraś ca kaphaprakṛti<lb
                             n="6"/>ḥ || </l>
 
 
 
-                    <l xml:id="SS.3.4.77"> dṛśyate prakṛtau rūpaṃ yadā doṣadvayasya tu ||
-                        saṃsarggantam vijānīyāt saṃsarggas trividhaś cayaḥ || </l>
+                    <l xml:id="SS.3.4.77.add"> dṛśyate prakṛtau rūpaṃ yadā doṣadvayasya tu ||
+                        saṃsarggan tam vijānīyāt saṃsarggas trividhaś ca yaḥ || </l>
 
                     <l xml:id="SS.3.4.78"> prakopo vānyato bhāvo kṣayo vā nopajāyate |
                         prakṛtīnāṃ svabhā<pb n="172v" facs="176"/>vena jñāyante tu
@@ -2027,10 +2031,9 @@ C) Special notes :
                          tadāsya rogā jāyante vividhā vātasambhavāḥ ||</l>
 
                     <l xml:id="SS.3.7.9.add">yadā tvakupitam pittaṃ sevate<lb n="3"/>
-                            svavahāḥ sirāḥ |
-                            <caesura/>
-                             avyāpannas tadāgnis tu samyak carati bho<cb/>janaṃ
-                        ||</l>
+                        svavahāḥ sirāḥ |
+                        <caesura/>
+                         avyāpannas tadāgnis tu samyak carati bho<cb/>janaṃ ||</l>
 
                     <l xml:id="SS.3.7.10">bhrājiṣṇutām annarucim agner ddīptim arogatāṃ |
                         <caesura/>
@@ -2693,8 +2696,8 @@ Half part of 57 found after 64-->
                         ātmanyeva na dhātryāḥ ||</l>
 
 
-                    <l xml:id="SS.3.10.44">bhavati cātra || vālā<cb/>nāṃ gudapākeṣu pittaghnīṃ kārayet
-                        kriyāṃ |
+                    <l xml:id="SS.3.10.44">bhavati cātra || vālā<cb/>nāṃ gudapākeṣu
+                        pittaghnīṃ kārayet kriyāṃ |
                         <caesura/>
                          rasāñjanam viśeṣeṇa pānālepanayo<lb n="5"/>rhitaṃ ||</l>
 
@@ -2875,6 +2878,7 @@ Half part of 57 found after 64-->
                             garbbhiṇyā<unclear>pūryate daśa ||</unclear></l>
 
                     <l xml:id="SS.3.trailer">|| iti śārīrasthānaṃ samāptaṃ || ❈ || </l>
+
 
                 </div>
 

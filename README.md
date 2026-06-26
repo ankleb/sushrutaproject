@@ -104,5 +104,8 @@ The Daśaka section above is the name given to the last ten adhyāyas of the Utt
 
 #### Citation of this website
 
-Wujastyk, Dominik. “Sushruta Project Github Repository Files”. Archived at Zenodo, May 9, 2026. https://doi.org/10.5281/zenodo.20091000.
+Wujastyk, Dominik, et al. “The Compendium of Suśruta According to the Nepalese Manuscripts
+A Critical Edition of the Nepalese Version of the Suśrutasaṃhitā, as Presented through Saktumiva 1,” URL:[https://purl.archive.org/purl/sushrutaproject/ed1](https://purl.archive.org/purl/sushrutaproject/ed1).
+
+Wujastyk, Dominik. “Sushruta Project Github Repository Files”. Archived at Zenodo, May 9, 2026. [https://doi.org/10.5281/zenodo.20091000](https://doi.org/10.5281/zenodo.20091000).
 

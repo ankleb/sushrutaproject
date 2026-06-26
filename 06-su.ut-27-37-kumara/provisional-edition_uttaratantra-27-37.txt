@@ -120,9 +120,8 @@
 
                <note xml:lang="en">Draft based on MS K.</note>
 
-               <lg>
-                  <l xml:id="SS.6.27.1"> athāto navagrahavijñānīyam adhyāyaṃ vyākhyāsyāmaḥ
-                     || </l>
+               <lg xml:id="SS.6.27.1">
+                   <l> athāto navagrahavijñānīyam adhyāyaṃ vyākhyāsyāmaḥ<anchor xml:id="SS.6.27.1-n1"/></l>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.1</trailer>
                </lg>
 
@@ -1160,5 +1159,7 @@
          </div>
       </body>
    </text>
-
+    <standOff corresp="#SS.6.27.1" type="notes1">
+        <note xml:lang="en" target="#SS.6.27.1-n1">[test standoff note].</note>
+    </standOff>
 </TEI>

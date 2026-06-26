@@ -2195,11 +2195,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.16k"> divāhi<pc> </pc><lb n="5"/>
                             kṣāratīkṣṇoṣṇa<pc> </pc>divāsvapnagurūṇy atha | </l>
 
-                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsa<cb/>mavaśyāyañ ca
+                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsa<cb/>m avaśyāyañ ca
                         varjjayet || </l>
 
                     <l xml:id="SS.6.64.16m">
-                        <gap n="half" unit="verse"/><unclear>kṣu</unclear>kṣīrasevī ca
+                        <gap reason="omitted" extent="18" unit="char"/>kṣukṣīrasevī ca
                             bha<lb n="6"/>vet tatra<g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/>
                         <g ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g

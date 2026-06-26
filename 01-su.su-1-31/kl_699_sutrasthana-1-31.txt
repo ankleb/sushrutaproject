@@ -4066,9 +4066,11 @@
                          vi<unclear reason="damage">mā</unclear>nayānaprāsādair yaś ca
                         saṃkulam ambaraṃ | </l>
 
-                    <l xml:id="SS.1.30.18"> yaś cā<cb n="2"/>py anirmalaṃ mūrttim
+                    <l xml:id="SS.1.30.18ab"> yaś cā<cb n="2"/>py anirmalaṃ mūrttim
                         antarikṣe prapaśyati |
-                        <caesura/>
+                    </l>
+                    
+                    <l xml:id="SS.1.30.18cd">
                          dhūmanīhāravāsobhir āvṛtām iva medinīṃ | </l>
 
                     <l xml:id="SS.1.30.19"> pradīptam iva lo<cb n="1"/>kañ ca yo vāplutam

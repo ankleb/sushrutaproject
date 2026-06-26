@@ -72,13 +72,14 @@
 
                 <msDesc xml:id="Sanskrit" xml:lang="en">
                     <msIdentifier>
-                        <idno type="siglum">A1938</idno>
+                        <idno type="siglum">A</idno>
                     </msIdentifier>
-                    <msContents>
+                    <!--  The following filiation statement was for collating both the 1931 and 1938                            editions                    -->
+                    <!--<msContents>
                         <msItem>
                             <filiation corresp="#A">A</filiation>
                         </msItem>
-                    </msContents>
+                    </msContents>-->
                 </msDesc>
             </sourceDesc>
 
@@ -442,6 +443,10 @@
                     <l xml:id="SS.1.2.trailer"> iti suśrutasaṃhitāyāṃ sūtrasthāne
                         śiṣyopanayanīyo nāma dvitīyo 'dhyāyaḥ ||2|| </l>
 
+
+
+
+
                 </div>
                 <div n="3" type="adhyāya">
                     <head>tṛtīyo 'dhyāyaḥ |</head>
@@ -751,6 +756,10 @@
 
                     <l xml:id="SS.1.4.trailer"> iti suśrutasaṃhitāyāṃ sūtrasthāne
                         prabhāṣaṇīyo nāma caturtho 'dhyāyaḥ ||4|| </l>
+
+
+
+
 
                 </div>
                 <div n="5" type="adhyāya">
@@ -1265,6 +1274,10 @@
 
                     <l xml:id="SS.1.7.trailer"> iti suśrutasaṃhitāyāṃ sūtrasthāne
                         yantravidhirnāma saptamo 'dhyāyaḥ ||7|| </l>
+
+
+
+
 
                 </div>
 
@@ -1881,6 +1894,10 @@
 
                     <l xml:id="SS.1.12.trailer"> iti suśrutasaṃhitāyāṃ sūtrasthāne
                         'gnikarmavidhirnāma dvādaśo 'dhyāyaḥ ||12|| </l>
+
+
+
+
 
 
                 </div>
@@ -4499,6 +4516,10 @@
                     <l xml:id="SS.1.26.trailer">iti suśrutasaṃhitāyāṃ sūtrasthāne
                         pranaṣṭaśalyavijñānīyo nāma ṣaḍviṃśatitamo 'dhyāyaḥ ||26|| </l>
 
+
+
+
+
                 </div>
 
 
@@ -5209,10 +5230,11 @@
                         <caesura/>
                          vimānayānaprāsādair yaś ca saṅkulamambaram ||17||</l>
 
-                    <l xml:id="SS.1.30.18"> yaś cānilaṃ mūrtimantam antarikṣaṃ ca paśyati
-                        |
-                        <caesura/>
-                         dhūmanīhāravāsobhir āvṛtām iva medinīm ||18||</l>
+                    <l xml:id="SS.1.30.18ab"> yaś cānilaṃ mūrtimantam antarikṣaṃ ca
+                        paśyati | </l>
+
+                    <l xml:id="SS.1.30.18cd"> dhūmanīhāravāsobhir āvṛtām iva medinīm
+                        ||18||</l>
 
                     <l xml:id="SS.1.30.19"> pradīptam iva lokaṃ ca yo vā plutam ivāmbhasā
                         |
