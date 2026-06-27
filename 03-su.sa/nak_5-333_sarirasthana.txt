@@ -1176,12 +1176,12 @@ C) Special notes :
                     <l xml:id="SS.3.4.77.add"> dṛśyate prakṛtau rūpaṃ yadā doṣadvayasya tu ||
                         saṃsarggan tam vijānīyāt saṃsarggas trividhaś ca yaḥ || </l>
 
-                    <l xml:id="SS.3.4.78"> prakopo vānyato bhāvo kṣayo vā nopajāyate |
+                    <l xml:id="SS.3.4.78"> prakopo vānyatobhāvo kṣayo vā nopajāyate |
                         prakṛtīnāṃ svabhā<pb n="172v" facs="176"/>vena jñāyante tu
                         gatāyuṣaḥ || </l>
 
                     <l xml:id="SS.3.4.79"> viṣajāto yathā kīṭo viṣeṇa na vipadyate |
-                        tadvat prakṛtibhir ddehas taj jātatvān na vādhate || </l>
+                        tadvat prakṛtibhir ddehas tajjātatvān na vādhate || </l>
 
                     <l xml:id="SS.3.4.80"> prakṛtir iha narāṇāṃ
                         <unclear>bhau</unclear>tikī kecid āhuḥ pavanadahana<lb n="2"

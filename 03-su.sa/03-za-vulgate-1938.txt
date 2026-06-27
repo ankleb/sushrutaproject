@@ -1180,7 +1180,7 @@
 
                     <l xml:id="SS.3.4.79"> viṣajāto yathā kīṭo na viṣeṇa vipadyate |
                         <caesura/>
-                         tadvatprakṛtayo martyaṃ śaknuvanti na bādhitum ||79|| </l>
+                         tadvat prakṛtayo martyaṃ śaknuvanti na bādhitum ||79|| </l>
 
                     <l xml:id="SS.3.4.80"> prakṛtimiha narāṇāṃ bhautikīṃ kecid āhuḥ
                         pavanadahanatoyaiḥ kīrtitās tās tu tisraḥ | sthiravipulaśarīraḥ
