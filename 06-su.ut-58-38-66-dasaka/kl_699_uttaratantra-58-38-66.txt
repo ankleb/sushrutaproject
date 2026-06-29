@@ -2164,7 +2164,7 @@ iii) 19ef is placed after 18ab     -->
                         tailāni vividhāni ca || </l>
 
                     <l xml:id="SS.6.64.47cd"> bṛṃhaṇañ cāpi ya<add place="inline"
-                            >t</add>kiñci<lb n="5"/>dabhiṣyandi tathaiva ca | </l>
+                            >t</add> kiñ ci<lb n="5"/>d abhiṣyandi tathaiva ca | </l>
 
 
                     <l xml:id="SS.6.64.50"> navāmburūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |

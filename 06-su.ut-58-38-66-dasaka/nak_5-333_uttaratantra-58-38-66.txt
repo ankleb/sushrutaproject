@@ -2472,7 +2472,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vividhā<cb/>ni ca | </l>
 
                     <l xml:id="SS.6.64.47cd"> bṛṃhaṇa<gap reason="omitted" extent="3"
-                            unit="char"/> kiñcidabhiṣyandi tathaiva ca || </l>
+                            unit="char"/> kiñ cid abhiṣyandi tathaiva ca || </l>
 
 
 
