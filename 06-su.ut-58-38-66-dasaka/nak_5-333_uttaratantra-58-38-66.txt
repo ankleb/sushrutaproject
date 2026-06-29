@@ -2488,7 +2488,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          saviṣaprāṇiviṇmūtralālāniṣṭhīvanādibhiḥ || </l>
 
                     <l xml:id="SS.6.64.52"> samāplutan tadā toya<pb n="410r" facs="414"
-                            />māntarīkṣa<unclear>ṃ</unclear> viṣopamaṃ |
+                            />m āntarīkṣa<unclear>ṃ</unclear> viṣopamaṃ |
                         <caesura/>
                          vāyunā viṣajuṣṭena prāvṛṣe yena dūṣitam || </l>
 

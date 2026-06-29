@@ -3083,19 +3083,19 @@
                         <caesura/>
                          navāmbu rūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
                         <caesura/>
-                         yavaṣaṣṭikaśālīṃś ca godhumānanavāṃs tathā | </l>
+                         yavaṣaṣṭikaśālīṃś ca godhumān anavāṃs tathā | </l>
 
                     <l xml:id="SS.6.64.51">
                         <label xml:lang="en">cf. 1938 ed. 6.64.51</label>
                         <caesura/>
-                         harmyamadhye nivāte ca bhajec chayyāṃ mṛdūttarāṃ |
+                         harmyamadhye nivāte ca bhajec chayyāṃ mṛdūttarām |
                         <caesura/>
                          saviṣaprāṇivinmūtralālāniṣṭhīvanādibhiḥ | </l>
 
                     <l xml:id="SS.6.64.52">
                         <label xml:lang="en">cf. 1938 ed. 6.64.52</label>
                         <caesura/>
-                         samāplutan tadā toyamāntarīkṣaṃ viṣopamaṃ |
+                         samāplutan tadā toyam āntarīkṣaṃ viṣopamam |
                         <caesura/>
                          vāyunā viṣajuṣṭena prāvṛṣeṇyaina dūṣitam | </l>
 

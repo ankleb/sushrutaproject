@@ -2169,7 +2169,7 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.50"> navāmbu rūkṣaśītānnaṃ saktūṃś cāpi vivarjayet |
                         <caesura/>
-                         yavaṣaṣṭikaśālīṃś ca go<cb/>dhumānanavāṃs tathā | </l>
+                         yavaṣaṣṭikaśālīṃś ca go<cb/>dhumān anavāṃs tathā | </l>
 
                     <l xml:id="SS.6.64.51"> harmyamadhye nivāte ca <unclear
                             reason="damaged">bha</unclear>jec chayyāṃ mṛdūttarāṃ |
@@ -2177,11 +2177,11 @@ iii) 19ef is placed after 18ab     -->
                          saviṣaprāṇivinmūtralālāniṣṭhīvanādibhiḥ | </l>
 
                     <l xml:id="SS.6.64.52"> samāplutan tadā to<cb/><unclear
-                            reason="damaged">ya</unclear>māntarīkṣaṃ viṣopamaṃ |
+                            reason="damaged">ya</unclear>m āntarīkṣaṃ viṣopamaṃ |
                         <caesura/>
                          vāyunā viṣajuṣṭena prāvṛṣeṇyaina dūṣitam | </l>
 
-                    <l xml:id="SS.6.64.53"> taddhi sarvopayogeṣu ta<lb n="6"/>smin kāle
+                    <l xml:id="SS.6.64.53"> tad dhi sarvopayogeṣu ta<lb n="6"/>smin kāle
                         vivarjayet |
                         <caesura/>
                          ariṣṭāsavamaireyāṃ sopadaṃ<unclear reason="damaged"
