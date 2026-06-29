@@ -3097,7 +3097,7 @@
                         <caesura/>
                          samāplutan tadā toyam āntarīkṣaṃ viṣopamam |
                         <caesura/>
-                         vāyunā viṣajuṣṭena prāvṛṣeṇyaina dūṣitam | </l>
+                         vāyunā viṣajuṣṭena prāvṛṣeṇyena dūṣitam | </l>
 
                     <l xml:id="SS.6.64.53">
                         <label xml:lang="en">cf. 1938 ed. 6.64.53</label>

@@ -2179,7 +2179,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.52"> samāplutan tadā to<cb/><unclear
                             reason="damaged">ya</unclear>m āntarīkṣaṃ viṣopamaṃ |
                         <caesura/>
-                         vāyunā viṣajuṣṭena prāvṛṣeṇyaina dūṣitam | </l>
+                         vāyunā viṣajuṣṭena prāvṛṣeṇyena dūṣitam | </l>
 
                     <l xml:id="SS.6.64.53"> tad dhi sarvopayogeṣu ta<lb n="6"/>smin kāle
                         vivarjayet |
