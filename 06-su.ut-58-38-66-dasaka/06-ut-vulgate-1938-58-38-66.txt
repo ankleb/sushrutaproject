@@ -1771,7 +1771,7 @@
 
 
 
-                    <l xml:id="SS.6.64.47ab"> payo māṃsarasāḥ koṣṇāstailāni ca ghṛtāni ca
+                    <l xml:id="SS.6.64.47ab"> payo māṃsarasāḥ koṣṇās tailāni ca ghṛtāni ca
                         | </l>
 
                     <l xml:id="SS.6.64.47cd"> bṛṃhaṇaṃ cāpi yat kiñ cid abhiṣyandi tathaiva
@@ -1804,10 +1804,10 @@
                         <caesura/>
                          ariṣṭāsavamaireyān sopadaṃśāṃs tu yuktitaḥ || </l>
 
-                    <l xml:id="SS.6.64.54"> pibet prāvṛṣi jīrṇāṃs tu rātrau tānapi
+                    <l xml:id="SS.6.64.54"> pibet prāvṛṣi jīrṇāṃs tu rātrau tān api
                         varjayet |
                         <caesura/>
-                         nirūhairbastibhiś cānyais tathānyair mārutāpahaiḥ || </l>
+                         nirūhair bastibhiś cānyais tathānyair mārutāpahaiḥ || </l>
 
                     <l xml:id="SS.6.64.55ab"> kupitaṃ śamayed vāyuṃ vārṣikaṃ cācared
                         vidhim |</l>
