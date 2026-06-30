@@ -3068,7 +3068,7 @@
                     <l xml:id="SS.6.64.48.add">
                         <label xml:lang="en">6.64.48.add</label>
                         <caesura/>
-                         caryāḥ sukhoṣṇāś ca ratās tailāni vividhāni ca || </l>
+                         caryāḥ sukhoṣṇāś ca rasās tailāni vividhāni ca || </l>
 
                     <l xml:id="SS.6.64.47ab"/>
 
@@ -3104,7 +3104,7 @@
                         <caesura/>
                          tad dhi sarvopayogeṣu tasmin kāle vivarjayet |
                         <caesura/>
-                         ariṣṭāsavamaireyāṃ sopadaṃśāṃś ca yuktitaḥ | </l>
+                         ariṣṭāsavam aireyān sopadaṃśāṃś ca yuktitaḥ | </l>
 
                     <l xml:id="SS.6.64.54">
                         <label xml:lang="en">cf. 1938 ed. 6.64.54</label>

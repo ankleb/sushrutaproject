@@ -2160,7 +2160,7 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          nihanyād avilambena<cb/> vidhinā vyādhikovidaḥ | </l>
 
-                    <l xml:id="SS.6.64.48.add"> caryāḥ sukhoṣṇāś ca ratās
+                    <l xml:id="SS.6.64.48.add"> caryāḥ sukhoṣṇāś ca rasās
                         tailāni vividhāni ca || </l>
 
                     <l xml:id="SS.6.64.47cd"> bṛṃhaṇañ cāpi ya<add place="inline"
