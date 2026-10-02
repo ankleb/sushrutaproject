@@ -137,8 +137,8 @@
                     <!--<milestone n="718r10" unit="folio" facs="6838 ROI0000534105 Nyāyacandrikāpañjikā   PDFA.pdf page_1004"/>-->
 
                     <lg xml:id="SS.3.4.81">
-                        <l> śaucam āsti<pb ana="6838 ROI0000534105 Nyāyacandrikāpañjikā
-                                PDFA.pdf page_1005" n="718v"/><lb n="1"/>kyam abhyāsor vedeṣu
+                        <l> śaucam āsti<pb facs="1005" ana="6838 ROI0000534105 Nyāyacandrikāpañjikā
+                                PDFA.pdf page_1005" n="718v" type="f"/><lb n="1"/>kyam abhyāsor vedeṣu
                             gurupūjanaṃ | priyātithi<unclear>tva</unclear>m ijyā ca brahmakāyasya
                             lakṣaṇaṃ | </l>
                     </lg>
@@ -219,7 +219,7 @@
                     <lg xml:id="SS.3.4.94cd">
                         <l>ṣaḍ ete rājasā kāyās tāmasāṃ<pb ana="6838 ROI0000534105
                                 Nyāyacandrikāpañjikā                                 PDFA.pdf
-                                page_1006" n="719r"/><lb n="1"/>s tu nibodha me |</l>
+                                page_1006" n="719r" facs="1006" type="f"/><lb n="1"/>s tu nibodha me |</l>
                     </lg>
 
                     <lg xml:id="SS.3.4.95">
@@ -262,7 +262,7 @@
                                 brāhmamāheṃdravāruṇākauveragaṃdharvayāmya<lb n="10"/>ṛṣisatvabhedena
                             sapta sātvikā bhedāḥ | śuddhasatvāḥ | teṣv api brāhmaṃ śuddhatamaṃ |
                             aiśvaryavaṃtam ityādi || āsuraṃ sa<pb ana="6838 ROI0000534105
-                                Nyāyacandrikāpañjikā   PDFA.pdf page_1007" n="719v"/><lb n="1"
+                                Nyāyacandrikāpañjikā   PDFA.pdf page_1007" n="719v" facs="1007" type="f"/><lb n="1"
                             />tvaṃ raudraṃ tīkṣṇaṃ | asūyakaṃ guṇeṣu matsariṇaṃ | aupadhikaṃ
                             chadmaparaṃ | ekāṃtagrāhitetyādi rākṣasaṃ satvalakṣaṇaṃ | ekāṃtagrā<lb
                                 n="2"/>hitā niyamena gṛhītā yogaśīlatā | ucchriṣṭāhāraśīlatvam
@@ -285,7 +285,7 @@
                             kumāras tathāsatvā<lb n="10"/>m evāsya dhātrīm upasthāpayet | kiṃ
                             kāraṇaṃ | tad dhi payonirddhāraṇaṃ bhavati | tad uktaṃ tatraiva |
                             piśācasatvān āryo ku<pb ana="6838 ROI0000534105 Nyāyacandrikāpañjikā
-                                PDFA.pdf page_1008" n="720r"/><lb n="1"/>māraḥ samudīkṣitanirvāṇam
+                                PDFA.pdf page_1008" n="720r" facs="1008" type="f"/><lb n="1"/>māraḥ samudīkṣitanirvāṇam
                             eva cāpnoti tathā rākṣasasatvā ityādi || mahāprakṛtayās tv etā
                             rajaḥsatvatamakṛtāḥ <lb n="2"/>proktā lakṣaṇataḥ samyagbhiṣak tāś ca
                             vibhāvaytet ||</l>
@@ -300,7 +300,7 @@
     </text>
     <facsimile>
         <!--    <graphic url="https://iiif.archive.org/iiif/add.2491/manifest.json"/> -->
-        <graphic url="https://cudl.lib.cam.ac.uk//iiif/MS-ADD-02491"/>
+        <graphic url="https://iiif.archive.org/iiif/rori6838/manifest.json"/>
     </facsimile>
 
 </TEI>
