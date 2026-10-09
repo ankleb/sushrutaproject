@@ -4123,7 +4123,7 @@
                     <lg xml:id="SS.1.45.58"><l>
                         
                         
-                         nasyāś cyotanayoḥ pathyañ jīvanaṃ laghu dīpanaṃ ||
+                         nasyāścyotanayoḥ pathyañ jīvanaṃ laghu dīpanaṃ ||
                         <caesura/>
                          hastinyā madhuraṃ vṛṣyaṃ kaṣāyānurasaṃ guru | </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.45.58]</trailer>
